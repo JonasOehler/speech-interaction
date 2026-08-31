@@ -1,0 +1,840 @@
+index,model,reference,hypothesis,audio_sec,infer_sec,x_real_time,wer
+0,small.en,that's where you have a lot of windows in the south no actually that's passive solar and passive solar is something that was developed and designed in the 1960s and 70s and it was a great thing for what it was at the time but it's not a passive house," That's where you have a lot of windows in the south.
+ No, actually that's passive solar.
+ And passive solar is something that was developed
+ and designed in the 1960s and 70s,
+ and it was a great thing for what it was at the time.
+ But it's not a passive house.
+",15.083,108.46507332300098,0.13905858851986336,0.0
+1,small.en,that was passed in the last legislative session," was passed in the last legislative session.
+",3.05,92.20573763100037,0.03307820183821796,0.125
+2,small.en,very complex really hard to get through," complex, really hard to get through.
+",2.64,92.40520623299926,0.028569818818901322,0.14285714285714285
+3,small.en,this is a passive house," This is a pass, Pals.
+",1.13,92.20672129400009,0.012255071909530409,0.4
+4,small.en,i had a hydronic heating or baseboard heating," had a hydraulic heating, you know, baseboard heating.
+",2.19,92.95349595900007,0.023560168204603788,0.5
+5,small.en,yeah well no i've built it out," Yeah, well no, I built it out.
+",2.29,92.59270241600098,0.024731970665587404,0.14285714285714285
+6,small.en,never mind the wood," Never mind the word.
+",0.86,91.72780837999926,0.009375564675406746,0.25
+7,small.en,so it's its own payback," So it's its own page.
+",2.17,92.1795067359999,0.023541024212841936,0.2
+8,small.en,they just love it it's a great place to raise a family," And they just love it.
+ It's a great place to raise a family.
+",2.673,93.66886247500042,0.028536697568131625,0.08333333333333333
+9,small.en,perm rating is the amount of moisture that it'll led in," permeating is the amount of moisture that will let in.
+",3.77,92.89417914300066,0.040583813052446356,0.36363636363636365
+10,small.en,here's the window bucks that we put in using this nice jig," Here's the window box that we put in using this nice jig.
+",4.5,93.2669749179986,0.04824858964233001,0.08333333333333333
+11,small.en,this is actual data from actual houses in vermont," This is actual data from actual houses in Vermont.
+",2.75,92.39491658499901,0.029763542212521275,0.0
+12,small.en,so the first thing you noticed is that the temperatures inside this house are very even," So the first thing you notice is that the temperatures inside this house are very even.
+",4.58,93.53925270499894,0.04896340164748007,0.0625
+13,small.en,we like using extruded sorry expanded polystyrene which is what we know as styrofoam," like using expanded polystyrene, which is what we know as styrofoam.
+",6.26,93.48731728599887,0.0669609545094683,0.21428571428571427
+14,small.en,not me i have a chimney outside the house," not me, I have a chimney outside,
+ I was not--
+",2.62,93.40682739500153,0.0280493414996365,0.3333333333333333
+15,small.en,i've been to their house," I've been to their house.
+",1.99,92.12746157699985,0.021600508316803716,0.0
+16,small.en,how do i have six inches sticking out but the window starts here how do i actually make that work in the new i just decided to rip it out," How do I have six inches sticking out but the window starts here?
+ How do I actually make that work in the new...
+ I just decided to rip it out.
+",6.87,96.10135141899991,0.07148702800283153,0.0
+17,small.en,so a lot of people who've heard about passive house say it's really expensive," So a lot of people who've heard about Passover say it's really expensive.
+",4.68,93.49857277599949,0.050054239985161855,0.14285714285714285
+18,small.en,this is the solar hot water tank and this is the backup because vermont does not have enough sun in the winter we have very cold winters to give you all of your hot water through that system people were worried that because we're only putting heat into this room without any distribution system or ductworks that this room up here would be cold," This is the solar hot water tank and this is the backup because Vermont does not have
+ enough sun in the winter and we have very cold winters to give you all of your hot water
+ through that system.
+ People were worried that because we're only putting heat into this room without any distribution
+ system or duct works that this room up here would be cold.
+",21.39,101.66845717900105,0.2103897373237406,0.046875
+19,small.en,there's no heating system on in this house," There is no heating system on this house.
+",2.17,92.48434671299947,0.023463430051941837,0.375
+20,small.en,what we're seeing here is the nice warmth inside," What we're seeing here is the nice warm inside.
+",2.76,92.78144609000083,0.029747326823540945,0.1111111111111111
+21,small.en,i cannot say to you build a house with these walls and you'll have a passive house because there are too many factors involved," cannot say to you build a house with these walls and you have a passive house because
+ there are too many factors involved.
+",6.85,94.53828010399957,0.072457421400775,0.08333333333333333
+22,small.en,that was pretty much it," pretty much it.
+ We wanted the
+",1.166,92.24923976799982,0.012639670559154804,1.0
+23,small.en,and this is the path that we're working on ph is just my abbreviation for passive house," And this is the path that we're working on.
+ pH is just my abbreviation for passive house.
+",5.263,94.40482009300104,0.05574927206910897,0.0
+24,small.en,and nobody knew then that they were creating a convective pathway cause it's not more expensive or take more time to put the sheet rock up first it's just something they didn't do because the sheet rock guy came next week and that was easier," And nobody knew then that they were creating a convective pathway.
+ Because it's not more expensive or take more time to put the She-Rock up first.
+ It's just something they didn't do.
+ Because the She-Rock guy came next week and that was easier.
+",14.3,99.66608303999965,0.14347910105247025,0.06666666666666667
+25,small.en,and the thermal bridging is insignificant," and the thermal bridging is insignificant.
+",3.083,92.13856643399959,0.033460472843458065,0.0
+26,small.en,they're the best thing around so i said well you're the expert," they're the best thing around.
+ So I said, well, you're the expert.
+",3.62,93.89832539500094,0.03855233823150509,0.0
+27,small.en,there was a lot of work," There's a lot of work.
+",0.97,92.10668099000031,0.01053126645726502,0.3333333333333333
+28,small.en,i have houses that i've helped design that if you invite fifteen friends over you're heating your house," I have houses that I've helped design that if you invite 15 friends over, you're heating
+ your house.
+",5.45,94.41295942099896,0.05772512622655733,0.05555555555555555
+29,small.en,the last two are passive houses," last two our passive houses.
+",2.14,92.17714079299913,0.023216168147434376,0.3333333333333333
+30,small.en,so that's the standard," So that's the standard.
+ Most--
+",1.29,92.55152477499905,0.013938182035748242,0.25
+31,small.en,fortunately the basement was not all that finished so i have an opportunity," Fortunately the basement was not all that finished so I have an opportunity.
+",5.74,93.26805324999987,0.061543045019008244,0.0
+32,small.en,don't let them build a house that is gonna cost them three thousand five hundred a year to heat when we can build them a house for almost no more money fifty more down but no more outofpocket per month money that they'll be able to heat for four hundred a month in the winter," don't let them build a house that is going to cost them $3,500 a year to heat
+ when we can build them a house for almost no more money.
+ Well, 15% more down, but no more out of pocket per month money.
+ That will, they'll be able to heat for $400 a month in the winter.
+",17.623,102.37441754199972,0.17214261553937593,0.2545454545454545
+33,small.en,and water is conductive," water is conductive.
+",1.59,91.7925349899997,0.017321670004790936,0.25
+34,small.en,and every one of these hungry cold mice are thinking nirvana," every one of these hungry cold mice are thinking nirvana.
+",3.663,92.94885229200008,0.039408770626802744,0.09090909090909091
+35,small.en,here's my house here's my deck," Here's my house. Here's my deck.
+",2.75,92.27402697899925,0.029802535881802098,0.0
+36,small.en,gaseous water can move into the wall and move out of the wall," The ashes water can move into the wall and move out of the wall.
+",3.51,93.2334892559993,0.03764741648102741,0.15384615384615385
+37,small.en,they even have grades of insulation installation one two and three where one is the best and three is the worst," They even have grades of installation, installation, one, two and three, where one is the best
+ and three is the worst.
+",7.63,94.97965360799935,0.08033299459577507,0.047619047619047616
+38,small.en,so that's the first presentation," So that's the first presentation.
+",2.12,92.12285869900006,0.023012746564094754,0.0
+39,small.en,there are four things you have to hit on passive house," There are four things you have to hit on passive house.
+",3.21,92.87295674799861,0.034563344512762856,0.0
+40,small.en,i am a passive house consultant," I am a passive house consultant.
+",2.783,92.18528837399936,0.030189198830829263,0.0
+41,small.en,the cost was all the work that had to be done," cost was all the work that had to be done.
+",2.443,92.75102486000105,0.026339331599704464,0.09090909090909091
+42,small.en,if you build a house and someone says let's put tyvek on the outside and make sure that when we put the fiberglass in the wall make sure you put a thing of poly of that clear plastic on the inside that's death to a wall," If you build a house and someone says, ""Let's put Tyvek on the outside and make sure that
+ when you put the fiberglass on the wall, make sure you put a thing of poly of that clear
+ plastic on the inside,"" that's death to a wall.
+",11.93,99.21148445200015,0.12024817556048054,0.043478260869565216
+43,small.en,and then i wanted that bay window replaced with a flat window and that costed me another four thousand," And then I wanted that bay window replaced with a flat window and that cost me another
+ $4,000.
+",5.1,94.37594070100022,0.054039196453232796,0.15789473684210525
+44,small.en,so i said instead of doing that i'm gonna put a bunch of fourbyfours on stilts into the ground," So I said instead of doing that I'm going to put a bunch of 4x4s on stilts into the
+ ground that's
+",6.34,95.10118840500036,0.06666583358559426,0.21052631578947367
+45,small.en,i just make up a number," I just make up a number.
+ Right.
+",1.328,92.93736549999994,0.014289193510655312,0.16666666666666666
+46,small.en,now i'm gonna ask the question," I'm going to ask the question.
+",1.61,92.19895404999988,0.017462237143459243,0.5
+47,small.en,and as soon as the energy that you're using goes up in price then because your passive house is using ninety less than that house your incremental increase in cost is smaller," And as soon as the energy that you're using goes up in price, then because your passive
+ house is using 90% less than that house, your incremental increasing cost is smaller.
+",12.9,96.52732348499921,0.13364091672970418,0.09375
+48,small.en,i work with a contractor who does energy audits and we walk around the thermal imaging camera," work with a contractor who does energy audits and we walk around the thermal
+ imaging camera.
+",7.84,93.3829014389994,0.0839554123847965,0.058823529411764705
+49,small.en,what does it cost for this person who's living in this house now this is a habitat house," What does it cost for this person who's living in this house?
+ Now this is a habitat house like a...
+",3.45,94.28649973000029,0.036590604273988886,0.1111111111111111
+50,small.en,there's a maximum overheating of twelve," a maximum overheating of 12%.
+",2.83,92.06208071500077,0.03074012642361313,0.3333333333333333
+51,small.en,it seemed like a good idea at the time," seemed like a good idea at the time.
+",1.37,92.45253053699889,0.014818415375355628,0.1111111111111111
+52,small.en,every time i've undone a wall in the garage or somewhere and looked at that in the basement to look at that stuff it's black with dirt," Every time I've undone a wall like in the garage or somewhere and looked at that in
+ the basement too, looked at that stuff.
+ It's black with dirt.
+",11.547,96.19131670100069,0.12004202038207339,0.1111111111111111
+53,small.en,when i'm doing my air sealing when i am in a passive house or in a house that i'm trying to make really tight every hole in your wall is going to increase your air changes per hour," When I'm doing my air sealing, when I am in a passive house or in a house that I'm trying
+ to make really tight, every hole in your wall is going to increase your air changes per
+ hour.
+",10.46,97.32482084500043,0.10747515288683247,0.0
+54,small.en,i'm also adding seven twelve inches of rock wool downstairs on the inside because you have that bump out with the cinder block wall and i decided i just wanted to fill that up," I'm also adding seven and a half inches of rock wall downstairs on the inside because
+ you know you have that bump out with the cinder block wall and I decided I just wanted to
+ fill that up.
+",9.56,97.29376887599938,0.09825911885666792,0.17647058823529413
+55,small.en,i was amazed i thought that i had a great view with this window with the fivebyfive and then the two side windows," I was amazed. I thought that I had a great view with this window, you know, with the
+ five by five and then the two side windows.
+",7.23,95.53307483999924,0.0756805955645095,0.21739130434782608
+56,small.en,you have a very nice house feelingwise," have a very nice house, feeling wise.
+",2.823,92.47235933900083,0.030528041245827506,0.42857142857142855
+57,small.en,now you can build a passive house with lots of foam either the blue boards that you see at lowe's or with polyiso or any of these foam products," You can build a passive house with lots of foam, either the blue boards that you see
+ at Lowe's or with polyiso or...
+",11.88,94.87542265199954,0.12521683348463716,0.20689655172413793
+58,small.en,a lot of houses have thermal bridging and in passive house we need to eliminate that thermal bridging in order to get to a super energy efficient house," A lot of houses have thermal bridging and in passive house we need to eliminate that
+ thermal bridging in order to get to a super energy efficient house.
+",8.753,95.67991626700132,0.09148210347064015,0.0
+59,small.en,and we found through studies that people are comfortable at a lower set temperature if all the surfaces are radiating the same temperature," And we found through studies that people are comfortable at a lower set temperature if
+ all the surfaces are radiating the same temperature.
+",8.823,94.77245956600018,0.09309666585001525,0.0
+60,small.en,and what that means is that we're actually drawing air through the house the whole time and it gives a nice fresh air all the way through," And what that means is that we're actually drawing air through the house the whole time.
+ That gives a nice fresh air all the way through.
+",9.76,95.37281678900035,0.10233523899784462,0.07407407407407407
+61,small.en,and what did the 20th century bring us well it brought us a lot of machines and it brought us cheap oil which is basically what we've been running on as a country for a hundred plus years," And what did the 20th century bring us?
+ Well it brought us a lot of machines, and it brought us cheap oil, which is basically
+ what we've been running on as a country for 100 plus years.
+",12.01,97.42773857000066,0.12327084849014493,0.05263157894736842
+62,small.en,net zero means that your house uses a certain amount of energy and you have a certain amount of renewable energies that covers the amount of energy your house uses," And net zero means that your house uses a certain amount of energy and you have a certain
+ amount of renewable energies that covers the amount of energy your house uses.
+",9.82,95.74730843799989,0.10256162977530416,0.03333333333333333
+63,small.en,you have a right as a person who's selling that to go to the bank and say i'm selling a horse farm," You have a right, as a person who's selling that, to go to the bank and say, ""I'm selling
+ the horse for him.""
+",4.607,95.60575420799978,0.0481874761426704,0.13636363636363635
+64,small.en,this is all the spray foam that he did against that osb that you just saw giving me an rvalue here," This is all the spray foam that he did against that OSB that you just saw, giving me an R
+ value here that
+",7.2,94.68097468799897,0.07604484452896762,0.14285714285714285
+65,small.en,you've got a walkout basement which is where the garage is," We've got a walkout basement, which is where the garage is.
+",2.64,93.15426901300089,0.028340086052648365,0.09090909090909091
+66,small.en,air sealing first," you later.
+",1.61,92.713666732001,0.017365293130449485,1.0
+67,small.en,we've also done buttonedup workshops," We've also done button-up workshops.
+",1.95,92.28282565799964,0.021130692369853352,0.4
+68,small.en,and these slides are just to show you the variety of what a passive house can look like," And these slides are just to show you the variety
+ of what a passphrase can look like.
+",4.26,93.93995745600114,0.04534811506589478,0.1111111111111111
+69,small.en,so the energy triangle says the first thing we do is we reduce the load that we have," So the energy triangle says the first thing we do is we reduce the load that we have.
+",5.957,93.81185862300117,0.0634994347989545,0.0
+70,small.en,energy star is a department of energy program," Energy Star is a Department of Energy program.
+",3.51,92.24941435399887,0.03804902204073284,0.0
+71,small.en,there's some buying groups for propane now," There are some buying groups of pro people.
+",1.223,92.18933084700075,0.013266177211218892,0.7142857142857143
+72,small.en,this is the actual blower door test it was four hundred and twenty five," This is the actual blower door test.
+ It was 4.25.
+",3.5,93.40959887200006,0.037469382614479255,0.35714285714285715
+73,small.en,now we like our bedrooms a little chilly but we didn't like them that chilly," Now we like our bedrooms a little chilly but we didn't like them that chilly.
+",4.09,93.4514807710002,0.043766026672412084,0.0
+74,small.en,something i did myself because i happened to have had the time to do it is that i bought myself a tagalong backhoe for three grand cause renting them was one hundred and fifty a day," Something I did myself because I happen to have had the time to do it is that I bought
+ myself a tag-along backhoe for three grand because renting them was $150 a day.
+",10.28,96.5729373159993,0.10644804109418866,0.2222222222222222
+75,small.en,and if you get there then you do this," And if you get there, then you do this.
+",2.68,92.6292936890004,0.028932531959036695,0.0
+76,small.en,this is an intelligent membrane," is an intelligent membrane.
+",1.99,91.89158860000134,0.02165595382905341,0.2
+77,small.en,the other thing we'll notice is that this orange dot is the room that has that heat pump blowing that warm air in," The other thing we'll notice is that this orange dot is the room that has that heat
+ pump blowing that warm air in.
+",7.003,94.87007496799924,0.07381674360816297,0.0
+78,small.en,we like cellulose which is recycled newspapers," We like cellulose, which is recycled newspapers.
+",3.91,92.34287505000066,0.042342194759290984,0.0
+79,small.en,internal heat gains your refrigerator your washing machine your television all of your electronics your light bulbs everything your dog everything that you have in that house that's giving off heat is a heat source," internal heat gains, your refrigerator, your washing machine, your television, all of your
+ electronics, your light bulbs, everything, your dog, everything that you have in that
+ house that's giving off heat is a heat source.
+",13.73,97.67735840299974,0.14056481690825848,0.0
+80,small.en,so that costs me another three thousand more than expected and that brought me up to my about fifty thousand that i paid jim to do work," that cost me another $3,000.
+ I wasn't expecting that.
+ It brought me up to about $50,000 that I paid Jim to do the work.
+",6.4,96.17634274299962,0.06654443096367206,0.48148148148148145
+81,small.en,and okay," and...
+",1.347,92.8166131729995,0.014512488162968702,0.5
+82,small.en,now why polyiso polyisocyanurate board is got a very high rvalue and you can buy used very cheaply which means that i'm saving it from going into a landfill i'm not causing them to make more for me and i'm getting a high rvalue," Why polyiso? Polyiso is a serenade board. It's got a very high R value and you can buy it used very
+ cheaply which means that I'm saving it from going into a landfill. I'm not causing them to make more
+ for me and I'm getting a high R value.
+",15.59,100.03400338999927,0.1558470067344979,0.25
+83,small.en,if you leave that stuff out in the rain a week later you can just squeeze the water out of it," that stuff out in the rain a week later you can just squeeze the water out of it.
+",4.247,93.66657563400076,0.04534168107730361,0.14285714285714285
+84,small.en,this is the code house and what the mortgage would have been and the energy costs," This is the code house and what the mortgage would have been and the energy costs.
+",5.89,93.51916613900175,0.06298174206606405,0.0
+85,small.en,what's fascinating about vermont is that it's got a very democratic legislature overall but there's also a very deep libertarian democratic bent which says we cannot force things on people because that's not what we do and every time they appoint someone and say look what we'd really like to do is to say you cannot sell a house unless you have an energy audit and i talked to the people in those groups who are representing the bank and the real estate side of things," fascinating about Vermont is that it's got a very democratic legislature overall, but
+ there's also a very deep libertarian democratic bent which says we cannot force things on
+ people because that's not what we do. And every time they appoint someone and say, ""Look,
+ what we'd really like to do is to say you cannot sell a house unless you have an energy
+ audit."" And I talk to the people in those groups who are representing the banking and
+ the real estate side of things.
+",39.55,202.19284444699952,0.1956053395864223,0.03488372093023256
+86,small.en,hot air rises," as heat goes on.
+",0.833,91.82339987900195,0.009071761676192185,1.3333333333333333
+87,small.en,now i have to explain something about that," Now I have to explain something about that.
+",3.12,92.26617935500326,0.03381520749868152,0.0
+88,small.en,it'll be a little worse than the passive house standard," be a little worse than a passcode center.
+",1.87,92.2517730239997,0.020270613113457573,0.5
+89,small.en,first of all if you've seen black when you open up a wall if you see black in your fiberglass you have airwashing," First of all, if you see black, when you open up a wall, if you see black in your fiberglass,
+ you have air washing.
+",7.38,95.5265071319991,0.07725604360057121,0.17391304347826086
+90,small.en,as a matter of fact i had an pendleton avalon and i thought that i could buy an outside air unit for it and i found out afterwards that i couldn't so i had to get rid of my wood stove and buy a brand new wood stove," As a matter of fact, I had a Pendleton Avalon and I thought that I could buy an outside
+ air unit for it and I found out afterwards that I couldn't.
+ So I had to get rid of my wood stove and buy a brand new wood stove.
+",11.91,98.91718054800003,0.12040375528314433,0.020833333333333332
+91,small.en,so i have six inches of that poly of that styrofoam outside i put two inches on the inside and i'm building the whole wall out to meet that," six inches of that styrofoam outside. I put two inches on the inside and I'm building
+ the whole wall out to meet that.
+",7.777,94.983999803997,0.08187694786541026,0.20689655172413793
+92,small.en,it's tied to something called the international energy commission code which is the minimum that you can build to," It's tied to something called the International Energy Commission Code, which is the minimum
+ that you can build to.
+",9.07,99.9251932340012,0.09076790053095221,0.0
+93,small.en,if you're jumping around you can give off more but you're putting off as much as a hundred watt light bulb," If you're jumping around, you can give off more, but you're putting off as much as a
+ 100-watt light bulb.
+",4.84,95.07238741100082,0.05090857747241092,0.047619047619047616
+94,small.en,why however is that so high why is this one using three times the heating energy of that it happens that that family is being lived in by the family that lives there was from the sudan and they'd like to keep their house at ninety degrees," Why, however, is that so high?
+ Why is this one using three times the heating energy of that?
+ It happens that that family is being lived in by--
+ the family that lives there is from the Sudan.
+ And they'd like to keep their house at 90 degrees.
+",16.18,100.60897742599991,0.16082063861448886,0.0425531914893617
+95,small.en,yeah," You gotta be careful.
+",0.833,91.89522147900061,0.009064671553029039,4.0
+96,small.en,i put another stud on just a twobyfour stud so i could get two layers of three 12inch rock wool in there making seven inches," I put another stud on, just a 2x4 stud, so I could get two layers of 3.5"" rock wool in
+ there making 7"".
+",7.413,95.73365647300307,0.07743358264071393,0.2
+97,small.en,i don't have any access to the house," don't have any access to the house.
+",1.77,92.40878476499711,0.01915402312130011,0.125
+98,small.en,are there questions i got one," questions. Yeah.
+",2.056,92.53172791600082,0.02221940567095442,0.8333333333333334
+99,small.en,so there's your four thousand five hundred what do you do here's the modified chainsaw so here's my wall coming up and here's my ceiling joist coming out and that's my roof joist my truss my it's actually gusset this is called a gusset," So there's your $4,500.
+ What do you do?
+ Here's the modified chainsaw.
+ So here's my wall coming up.
+ And here's my ceiling joist coming out.
+ And that's my roof joist.
+ My truss.
+ It's actually gusseted.
+ This is called a gusset.
+",15.29,102.27816257300219,0.14949427732519724,0.13636363636363635
+0,base.en,that's where you have a lot of windows in the south no actually that's passive solar and passive solar is something that was developed and designed in the 1960s and 70s and it was a great thing for what it was at the time but it's not a passive house," That's where you have a lot of windows in the south.
+ No, actually that's passive solar.
+ And passive solar is something that was developed and designed
+ in the 1960s and '70s.
+ And it was a great thing for what it was at the time.
+ But it's not a passive house.
+",15.083,38.12252307900053,0.3956453765860094,0.02
+1,base.en,that was passed in the last legislative session," was passed in the last legislative session.
+",3.05,28.959678066999913,0.10531885033195625,0.125
+2,base.en,very complex really hard to get through," very complex, really hard to get through.
+",2.64,28.99804686599964,0.0910406142937652,0.0
+3,base.en,this is a passive house," This is a past house.
+",1.13,28.821439490999182,0.039206924426966744,0.2
+4,base.en,i had a hydronic heating or baseboard heating," had a hydraulic heating, a baseboard heating.
+",2.19,29.07148567799959,0.07533154735388446,0.375
+5,base.en,yeah well no i've built it out," Yeah, well no, I've built it out.
+",2.29,29.114048458999605,0.07865618562890471,0.0
+6,base.en,never mind the wood," Never mind the word.
+",0.86,28.867405381002754,0.029791385427592125,0.25
+7,base.en,so it's its own payback," So it's its own, it's its own page.
+",2.17,29.179549170999962,0.0743671530798238,0.8
+8,base.en,they just love it it's a great place to raise a family," They just love it. It's a great place to read a family.
+",2.673,29.385212498000328,0.0909641201397437,0.08333333333333333
+9,base.en,perm rating is the amount of moisture that it'll led in," The first worm mating is the amount of moisture that it let in.
+",3.77,30.70701498699782,0.12277324909621856,0.5454545454545454
+10,base.en,here's the window bucks that we put in using this nice jig," Here's the window box that we put in using this nice jig.
+",4.5,29.156432594998478,0.154339869438346,0.08333333333333333
+11,base.en,this is actual data from actual houses in vermont," actual data from actual houses in Vermont.
+",2.75,28.967740642001445,0.09493318909423916,0.2222222222222222
+12,base.en,so the first thing you noticed is that the temperatures inside this house are very even," So the first thing you notice is that the temperatures inside this house are very even.
+",4.58,29.434168487001443,0.15560147391364545,0.0625
+13,base.en,we like using extruded sorry expanded polystyrene which is what we know as styrofoam," like using extruded, sorry, expanded polycyre, which is what we know as styrofoam.
+",6.26,29.728247437997197,0.2105741353591794,0.14285714285714285
+14,base.en,not me i have a chimney outside the house," not me, I have a chimney outside the house.
+",2.62,29.010257848000037,0.09031288221316594,0.0
+15,base.en,i've been to their house," been to their house.
+",1.99,28.814150247002544,0.06906328949287735,0.2
+16,base.en, how do i have six inches sticking out but the window starts here how do i actually make that work in the new i just decided to rip it out," How do I have six inches sticking out with the window starts here?
+ How do I actually make that work in the new?
+ I just decided to rip it out.
+",6.87,30.500664003000566,0.2252409980098843,0.03333333333333333
+17,base.en,so a lot of people who've heard about passive house say it's really expensive," So a lot of people who've heard about Passoverl say it's really expensive.
+",4.68,29.45382568900095,0.1588927716696466,0.14285714285714285
+18,base.en,this is the solar hot water tank and this is the backup because vermont does not have enough sun in the winter we have very cold winters to give you all of your hot water through that system people were worried that because we're only putting heat into this room without any distribution system or ductworks that this room up here would be cold," This is the solar hot water tank.
+ This is the backup because Vermont does not have enough sun in the winter and we have
+ very cold winters to give you all of your hot water through that system.
+ People were worried that because we're only putting heat into this room without any distribution
+ system or duct works, that this room up here would be cold.
+",21.39,33.51532229899749,0.6382155543418366,0.0625
+19,base.en,there's no heating system on in this house," There's no heating system on this house.
+",2.17,29.12947241100119,0.07449499837767286,0.125
+20,base.en,what we're seeing here is the nice warmth inside," What we're seeing here is the nice warm inside the room.
+",2.76,29.20715472200027,0.09449739374719139,0.3333333333333333
+21,base.en,i cannot say to you build a house with these walls and you'll have a passive house because there are too many factors involved," I cannot say to you, build a house with these walls and you have a passive house because
+ there are too many factors involved.
+",6.85,29.825374792999355,0.22967020691414208,0.041666666666666664
+22,base.en,that was pretty much it," pretty much it in one of the--
+",1.166,28.903728347999277,0.040340816449747414,1.2
+23,base.en,and this is the path that we're working on ph is just my abbreviation for passive house," And this is the path that we're working on.
+ PH is just my abbreviation for Passive House.
+",5.263,29.76656933800041,0.17680908875451704,0.0
+24,base.en,and nobody knew then that they were creating a convective pathway cause it's not more expensive or take more time to put the sheet rock up first it's just something they didn't do because the sheet rock guy came next week and that was easier," And nobody knew then that they were creating a convective pathway.
+ Because it's not more expensive or taking more time to put the sheet rock up first.
+ It's just something they didn't do because the sheet rock guy came next week and that was easier.
+",14.3,31.3874201610015,0.4555965392073727,0.044444444444444446
+25,base.en,and the thermal bridging is insignificant," and the thermal bridging is insignificant.
+",3.083,29.00554292399829,0.10629002904990346,0.0
+26,base.en,they're the best thing around so i said well you're the expert," they're the best thing around. So I said, well, you're the expert.
+",3.62,29.364948685000854,0.12327622427785948,0.0
+27,base.en,there was a lot of work," There's a lot of work.
+",0.97,28.386107210000773,0.03417164575698697,0.3333333333333333
+28,base.en,i have houses that i've helped design that if you invite fifteen friends over you're heating your house," I have houses that I've helped design that if you invite 15 friends over, you're heating your house.
+",5.45,29.639389128999028,0.18387693404476235,0.05555555555555555
+29,base.en,the last two are passive houses," last two our passive houses.
+",2.14,28.923176593998505,0.07398910673055342,0.3333333333333333
+30,base.en,so that's the standard," So that's the standard.
+",1.29,28.428490837002755,0.04537701306046558,0.0
+31,base.en,fortunately the basement was not all that finished so i have an opportunity," Unfortunately, the basement was not all that finished, so I have an opportunity.
+",5.74,29.263485644998582,0.19614888224981575,0.07692307692307693
+32,base.en,don't let them build a house that is gonna cost them three thousand five hundred a year to heat when we can build them a house for almost no more money fifty more down but no more outofpocket per month money that they'll be able to heat for four hundred a month in the winter," don't let them build a house that is going to cost them $3,500 a year to heat when we
+ can build them a house for almost no more money, or 15% more down, but no more out of
+ pocket per month money that will be able to heat for $400 a month in the winter.
+",17.623,32.07497430100193,0.549431461257617,0.2545454545454545
+33,base.en,and water is conductive," water is conductive.
+",1.59,28.90518534399962,0.05500743140296333,0.25
+34,base.en,and every one of these hungry cold mice are thinking nirvana," every one of these hungry cold mice are thinking, ""Nirvana!""
+",3.663,29.346093964999454,0.12482070030746827,0.09090909090909091
+35,base.en,here's my house here's my deck," Here's my house.
+ Here's my deck.
+",2.75,29.096584049999365,0.09451281275061084,0.0
+36,base.en,gaseous water can move into the wall and move out of the wall," The ashes water can move into the wall and move out of the wall.
+",3.51,28.80200154599879,0.12186653050463478,0.15384615384615385
+37,base.en,they even have grades of insulation installation one two and three where one is the best and three is the worst," They even have grades of installation, installation, one, two, and three, where one is the best
+ and three is the worst.
+",7.63,29.92548655399878,0.25496661470255844,0.047619047619047616
+38,base.en,so that's the first presentation," So that's the first presentation.
+",2.12,28.818458167002973,0.07356396333608826,0.0
+39,base.en,there are four things you have to hit on passive house," or four things you have to hit on passive house.
+",3.21,29.07957774800161,0.11038674728420345,0.18181818181818182
+40,base.en,i am a passive house consultant," I am a passive house consultant.
+",2.783,28.9558727069998,0.09611176386085013,0.0
+41,base.en,the cost was all the work that had to be done," cost was all the work that had to be done.
+",2.443,29.15770683699884,0.08378573848955861,0.09090909090909091
+42,base.en,if you build a house and someone says let's put tyvek on the outside and make sure that when we put the fiberglass in the wall make sure you put a thing of poly of that clear plastic on the inside that's death to a wall," If you build a house and someone says, let's put Tyvek on the outside and make sure that
+ when you put the fiberglass in the wall, make sure you put a thing of poly of that clear
+ plastic on the inside, that's a death tool wall.
+",11.93,31.403450605997932,0.37989455839357406,0.08695652173913043
+43,base.en,and then i wanted that bay window replaced with a flat window and that costed me another four thousand," And then I wanted that bay window replaced with a flat window and that cost me another
+ $4,000.
+",5.1,29.56445291500131,0.17250446049729562,0.15789473684210525
+44,base.en,so i said instead of doing that i'm gonna put a bunch of fourbyfours on stilts into the ground," So I said instead of doing that, I'm going to put a bunch of 4x4s on stilts into the
+ ground.
+",6.34,30.039270442000998,0.21105705653674575,0.15789473684210525
+45,base.en,i just make up a number," I just make up a number.
+",1.328,28.939609136999934,0.04588866400072151,0.0
+46,base.en,now i'm gonna ask the question," Now I'm going to ask the question.
+",1.61,28.756552140002896,0.05598724047867854,0.3333333333333333
+47,base.en,and as soon as the energy that you're using goes up in price then because your passive house is using ninety less than that house your incremental increase in cost is smaller," And as soon as the energy that you're using goes up in price,
+ then because your passive house is using 90% less than that house,
+ your incremental increase in cost is smaller.
+",12.9,30.59694118200059,0.4216107722424471,0.03125
+48,base.en,i work with a contractor who does energy audits and we walk around the thermal imaging camera," work with a contractor who does energy audits.
+ And we walk around to the thermal imaging camera.
+",7.84,29.61088383400056,0.26476751062046167,0.11764705882352941
+49,base.en,what does it cost for this person who's living in this house now this is a habitat house," What does it cost for this person who's living in this house?
+ Now, this is a habitat house like a--
+",3.45,29.91053995299808,0.11534395585707874,0.1111111111111111
+50,base.en,there's a maximum overheating of twelve," There's a maximum overheating of 12%.
+",2.83,29.01722220100055,0.09752828786976095,0.16666666666666666
+51,base.en,it seemed like a good idea at the time," seem like a good idea at the time.
+",1.37,28.85910038200018,0.047472027258843044,0.2222222222222222
+52,base.en,every time i've undone a wall in the garage or somewhere and looked at that in the basement to look at that stuff it's black with dirt," Every time I've undone a wall like in the garage or somewhere and looked at that in
+ the basement too, looked at that stuff.
+ It's black with dirt.
+",11.547,30.42113062900171,0.37957169116494877,0.1111111111111111
+53,base.en,when i'm doing my air sealing when i am in a passive house or in a house that i'm trying to make really tight every hole in your wall is going to increase your air changes per hour," When I'm doing my air ceiling, when I am in a passive house or in a house that I'm trying
+ to make really tight, every hole in your wall is going to increase your air changes per hour.
+",10.46,30.544056353999622,0.34245615182118094,0.02631578947368421
+54,base.en,i'm also adding seven twelve inches of rock wool downstairs on the inside because you have that bump out with the cinder block wall and i decided i just wanted to fill that up," I'm also adding seven and a half inches of rock wall downstairs on the inside because
+ you know you have that bump out with the cinder block wall and I decided I just wanted to fill that up.
+",9.56,30.375625616001344,0.3147260280612611,0.17647058823529413
+55,base.en,i was amazed i thought that i had a great view with this window with the fivebyfive and then the two side windows," I was amazed. I thought that I had a great view with this window, you know, with the
+ five by five and then the two side windows.
+",7.23,30.2829827079986,0.23874794863223137,0.21739130434782608
+56,base.en,you have a very nice house feelingwise," have a very nice house feeling once.
+",2.823,28.987869502998365,0.09738556328563583,0.42857142857142855
+57,base.en,now you can build a passive house with lots of foam either the blue boards that you see at lowe's or with polyiso or any of these foam products," You can build a passive house with lots of foam, either the blueboards that you see at
+ Lowe's or with polyisso.
+",11.88,30.0570806800024,0.3952479659112075,0.3448275862068966
+58,base.en,a lot of houses have thermal bridging and in passive house we need to eliminate that thermal bridging in order to get to a super energy efficient house," A lot of houses have thermal bridging, and in passive house,
+ we need to eliminate that thermal bridging
+ in order to get to a super energy efficient house.
+",8.753,30.449112250997132,0.28746322480102393,0.0
+59,base.en,and we found through studies that people are comfortable at a lower set temperature if all the surfaces are radiating the same temperature," And we found through studies that people are comfortable at a lower set temperature if
+ all the surfaces are radiating the same temperature.
+",8.823,29.752780819999316,0.29654370975869687,0.0
+60,base.en,and what that means is that we're actually drawing air through the house the whole time and it gives a nice fresh air all the way through," And what that means is that we're actually drawing air through the house the whole time.
+ That gives a nice fresh air all the way through.
+",9.76,30.177925027997844,0.32341521131572404,0.07407407407407407
+61,base.en,and what did the 20th century bring us well it brought us a lot of machines and it brought us cheap oil which is basically what we've been running on as a country for a hundred plus years," And what did the 20th century bring us?
+ Well, it brought us a lot of machines.
+ And it brought us cheap oil, which is basically what we've
+ been running on as a country for 100 plus years.
+",12.01,31.034372892001556,0.3869902588911445,0.05263157894736842
+62,base.en,net zero means that your house uses a certain amount of energy and you have a certain amount of renewable energies that covers the amount of energy your house uses," Net zero means that your house uses certain amount of energy and you have a certain amount
+ of renewable energy that covers the amount of energy your house uses.
+",9.82,30.10595956800171,0.3261812657995211,0.06666666666666667
+63,base.en,you have a right as a person who's selling that to go to the bank and say i'm selling a horse farm," have a right as a person who's telling that to go to the bank and say, ""I'm selling the horse from.""
+",4.607,29.965225405001547,0.15374488053178595,0.18181818181818182
+64,base.en,this is all the spray foam that he did against that osb that you just saw giving me an rvalue here," This is all the spray foam that he did against that OSB that you just saw, giving me an R
+ value here.
+",7.2,58.658443004998844,0.12274447856357898,0.09523809523809523
+65,base.en,you've got a walkout basement which is where the garage is," We've got a walkout basement, which is where the garage is.
+",2.64,29.371997243000806,0.08988152825150827,0.09090909090909091
+66,base.en,air sealing first," you in for.
+",1.61,29.251570322998305,0.05503978016298764,1.0
+67,base.en,we've also done buttonedup workshops," We've also done button up workshops.
+",1.95,28.903406237001036,0.06746609669498692,0.4
+68,base.en,and these slides are just to show you the variety of what a passive house can look like," And these slides are just to show you
+ the variety of what a passphrase can look like.
+",4.26,29.50477153799875,0.14438342606766535,0.1111111111111111
+69,base.en,so the energy triangle says the first thing we do is we reduce the load that we have," So the energy triangle says the first thing we do is we reduce the load that we have.
+",5.957,29.523176049999165,0.20177368416973446,0.0
+70,base.en,energy star is a department of energy program," Energy Star is a Department of Energy program.
+",3.51,28.927829164000286,0.1213364466479938,0.0
+71,base.en,there's some buying groups for propane now," There's some buying groups appropriate.
+",1.223,28.953952985997603,0.04223948282956231,0.42857142857142855
+72,base.en,this is the actual blower door test it was four hundred and twenty five," This is the actual Bloor door test.
+ It was 4.25.
+",3.5,29.45999034199849,0.1188051984867884,0.42857142857142855
+73,base.en,now we like our bedrooms a little chilly but we didn't like them that chilly," We like our bedrooms a little chilly, but we didn't like them that chilly.
+",4.09,29.442401653999696,0.13891529801354982,0.06666666666666667
+74,base.en,something i did myself because i happened to have had the time to do it is that i bought myself a tagalong backhoe for three grand cause renting them was one hundred and fifty a day," Something I did myself because I happened to have had the time to do it is that I bought
+ myself a tag along back home for three grand because renting them was $150 a day.
+",10.28,30.541468726998573,0.33659154023959914,0.25
+75,base.en,and if you get there then you do this," And if you get there, then you do this.
+",2.68,28.987234600001102,0.09245449029483821,0.0
+76,base.en,this is an intelligent membrane," This is an intelligent membrane.
+",1.99,28.85706253999888,0.06896058797535798,0.0
+77,base.en,the other thing we'll notice is that this orange dot is the room that has that heat pump blowing that warm air in," The other thing you'll notice is that this orange dot is the room that has that heat
+ pump blowing that warm air in.
+",7.003,30.2813176080017,0.23126470554073544,0.043478260869565216
+78,base.en,we like cellulose which is recycled newspapers," We like cellulose, which is recycled newspapers.
+",3.91,28.99250514099913,0.13486244051642016,0.0
+79,base.en,internal heat gains your refrigerator your washing machine your television all of your electronics your light bulbs everything your dog everything that you have in that house that's giving off heat is a heat source," internal heat canes, your refrigerator, your washing machine, your television, all of your
+ electronics, your light bulbs, everything, your dog, everything that you have in that
+ house that's giving off heat is a heat source.
+",13.73,31.13770044500052,0.44094457213536764,0.02857142857142857
+80,base.en,so that costs me another three thousand more than expected and that brought me up to my about fifty thousand that i paid jim to do work," that cost me another $3,000, and when expecting that brought me up to my about $50,000 other
+ page in to do the work.
+",6.4,30.269132209999952,0.2114365207300408,0.5555555555555556
+81,base.en,and okay," And...
+",1.347,29.03900495900234,0.04638588690975165,0.5
+82,base.en,now why polyiso polyisocyanurate board is got a very high rvalue and you can buy used very cheaply which means that i'm saving it from going into a landfill i'm not causing them to make more for me and i'm getting a high rvalue," why polyisso. Polyisocirinate board is got a very high R value and you can buy
+ it used very cheaply which means that I'm saving it from going into a landfill.
+ I'm not causing them to make more for me and I'm getting a high R value.
+",15.59,31.73475773899918,0.49125946157267447,0.18181818181818182
+83,base.en,if you leave that stuff out in the rain a week later you can just squeeze the water out of it," that stuff out in the rain a week later you can just squeeze the water out of it.
+",4.247,29.57868462099941,0.14358312597122183,0.14285714285714285
+84,base.en,this is the code house and what the mortgage would have been and the energy costs," This is the code house and what the mortgage would have been and the energy costs.
+",5.89,29.48674217500229,0.1997507885083796,0.0
+85,base.en,what's fascinating about vermont is that it's got a very democratic legislature overall but there's also a very deep libertarian democratic bent which says we cannot force things on people because that's not what we do and every time they appoint someone and say look what we'd really like to do is to say you cannot sell a house unless you have an energy audit and i talked to the people in those groups who are representing the bank and the real estate side of things," What's fascinating about Vermont is that it's got a very democratic legislature overall,
+ but there's also a very deep libertarian democratic bent which says we cannot force things on
+ people because that's not what we do.
+ And every time they appoint someone and say, ""Look, what we'd really like to do is to
+ say you cannot sell a house unless you have an energy audit.""
+ And I talk to the people and those groups who are representing the bank and the real estate
+ side of things.
+",39.55,64.75440052799968,0.6107693018160002,0.023255813953488372
+86,base.en,hot air rises," as heat goes.
+",0.833,29.047437167999306,0.028677228740774805,1.0
+87,base.en,now i have to explain something about that," Now I have to explain something about that.
+",3.12,29.04018831200301,0.10743731984377074,0.0
+88,base.en,it'll be a little worse than the passive house standard," be a little worse than a pass-off center.
+",1.87,29.158418801998778,0.06413242133252485,0.5
+89,base.en,first of all if you've seen black when you open up a wall if you see black in your fiberglass you have airwashing," If you see black, when you open up a wall, if you see black in your fiberglass, you have air washing.
+",7.38,29.378443677000178,0.2512045934474623,0.30434782608695654
+90,base.en,as a matter of fact i had an pendleton avalon and i thought that i could buy an outside air unit for it and i found out afterwards that i couldn't so i had to get rid of my wood stove and buy a brand new wood stove," As a matter of fact, I had a Pendleton Avalon, and I thought that I could buy an outside
+ air unit for it, and I found out afterwards that I couldn't.
+ So I had to get rid of my wood stove and buy a brand new wood stove.
+",11.91,31.42769893700097,0.37896506593990326,0.020833333333333332
+91,base.en,so i have six inches of that poly of that styrofoam outside i put two inches on the inside and i'm building the whole wall out to meet that," 60 inches of that styrofoam outside, I put two inches on the inside and I'm building
+ the whole wall out to meet that.
+",7.777,30.078227387999505,0.25855911984703056,0.2413793103448276
+92,base.en,it's tied to something called the international energy commission code which is the minimum that you can build to," It's tied to something called the International Energy Commission Code, which is the minimum
+ that you can build to.
+",9.07,29.723171593999723,0.305149131589678,0.0
+93,base.en,if you're jumping around you can give off more but you're putting off as much as a hundred watt light bulb," If you're jumping around, you can give off more.
+ But you're putting off as much as a 100-watt light bulb.
+",4.84,30.092509595000593,0.16083736667825443,0.047619047619047616
+94,base.en,why however is that so high why is this one using three times the heating energy of that it happens that that family is being lived in by the family that lives there was from the sudan and they'd like to keep their house at ninety degrees," Why, however, is that so high, why is this one using three times the heating energy of that?
+ It happens that that family is being lived in by the family that lives there is from the Sudan,
+ and they'd like to keep their house at 90 degrees.
+",16.18,31.529927902000054,0.5131632412953804,0.0425531914893617
+95,base.en,yeah," You gotta be careful.
+",0.833,28.822785607000696,0.02890074579736924,4.0
+96,base.en,i put another stud on just a twobyfour stud so i could get two layers of three 12inch rock wool in there making seven inches," I put another stud on, just a 2x4 stud, so I could get two layers of 3.5"" rockwall in there making 7""
+",7.413,30.179394547998527,0.2456311702413402,0.28
+97,base.en,i don't have any access to the house," don't have any access to the house.
+",1.77,29.047203221998643,0.06093529853708966,0.125
+98,base.en,are there questions i got one," questions. Yeah.
+",2.056,28.92439632999958,0.07108186378526331,0.8333333333333334
+99,base.en,so there's your four thousand five hundred what do you do here's the modified chainsaw so here's my wall coming up and here's my ceiling joist coming out and that's my roof joist my truss my it's actually gusset this is called a gusset," So there's your, you know, $4,500.
+ What do you do?
+ Here's the modified chainsaw.
+ So here's my wall coming up.
+ And here's my ceiling joists coming out.
+ And that's my roof joist.
+ My truss, my-- it's actually gusseted.
+ This is called a gusset.
+",15.29,32.43133683799897,0.47145759289469363,0.13636363636363635
+0,tiny.en,that's where you have a lot of windows in the south no actually that's passive solar and passive solar is something that was developed and designed in the 1960s and 70s and it was a great thing for what it was at the time but it's not a passive house," That's where you have a lot of windows in the South.
+ No, actually, that's passive solar.
+ And passive solar is something that was developed and designed
+ in the 1960s and '70s.
+ And it was a great thing for what it was at the time.
+ But it's not a passive-house.
+",15.083,15.78995840800053,0.9552273419768905,0.02
+1,tiny.en,that was passed in the last legislative session," was passed in the legislative session.
+",3.05,12.185089657999924,0.25030591367028404,0.25
+2,tiny.en,very complex really hard to get through," very complex, really hard to get through.
+",2.64,12.225903902999562,0.2159349542533448,0.0
+3,tiny.en,this is a passive house," This is a past house.
+",1.13,9.704869921999489,0.11643638802808257,0.2
+4,tiny.en,i had a hydronic heating or baseboard heating," a hydronic heating or baseboard heating.
+",2.19,9.781499353000982,0.22389205590737007,0.25
+5,tiny.en,yeah well no i've built it out," Yeah, well no, I've built it out.
+",2.29,9.806979804001458,0.23350715977467712,0.0
+6,tiny.en,never mind the wood," remind the word and
+",0.86,9.603084670998214,0.08955455767220735,1.0
+7,tiny.en,so it's its own payback," So it's its own, it's its own paper.
+",2.17,9.829051253000216,0.22077410567348807,0.8
+8,tiny.en,they just love it it's a great place to raise a family," And you just love it.
+ It's a great place to read a family.
+",2.673,10.011210071999812,0.2670006903037695,0.25
+9,tiny.en,perm rating is the amount of moisture that it'll led in," The amount of moisture that'll let in.
+",3.77,10.289970612997422,0.36637616780343907,0.5454545454545454
+10,tiny.en,here's the window bucks that we put in using this nice jig," Here's the window box that we put in using this nice jig.
+",4.5,9.958906694999314,0.4518568290492765,0.08333333333333333
+11,tiny.en,this is actual data from actual houses in vermont," is an actual data from actual houses in Vermont.
+",2.75,9.772415773997636,0.28140431839967117,0.2222222222222222
+12,tiny.en,so the first thing you noticed is that the temperatures inside this house are very even," The first thing you notice is that the temperatures inside this house are very even.
+",4.58,9.934772229000373,0.46100704620390026,0.125
+13,tiny.en,we like using extruded sorry expanded polystyrene which is what we know as styrofoam," like using ex-expanded polystyrene, which is what we know as styrofoam.
+",6.26,10.0501155689999,0.6228784094094691,0.21428571428571427
+14,tiny.en,not me i have a chimney outside the house," not me, I have a chimney outside that was not
+",2.62,9.81866921999972,0.2668386052422769,0.3333333333333333
+15,tiny.en,i've been to their house," into their house.
+",1.99,9.832978349000769,0.202380187301259,0.6
+16,tiny.en,how do i have six inches sticking out but the window starts here how do i actually make that work in the new i just decided to rip it out," How do I have six inches to gain out with the window starts here?
+ How do I actually make that work in the noot?
+ I just decided to rip it out.
+",6.87,10.554790335001599,0.6508892912081669,0.13333333333333333
+17,tiny.en,so a lot of people who've heard about passive house say it's really expensive," So a lot of people who've heard about pass-vall say it's really expensive.
+",4.68,10.050648739997996,0.4656415840477311,0.14285714285714285
+18,tiny.en,this is the solar hot water tank and this is the backup because vermont does not have enough sun in the winter we have very cold winters to give you all of your hot water through that system people were worried that because we're only putting heat into this room without any distribution system or ductworks that this room up here would be cold," This is the Solar Hot Water Tank.
+ This is the backup because Vermont does not have enough sun in the winter.
+ We have very cold winters to give you all of your hot water through that system.
+ People were worried that because we're only putting heat into this room without any distribution
+ system or duct works that this room up here would be cold.
+",21.39,11.612737962997926,1.8419428792895962,0.046875
+19,tiny.en,there's no heating system on in this house," There is no heating system on in this house.
+",2.17,9.76701857900116,0.22217629488956275,0.25
+20,tiny.en,what we're seeing here is the nice warmth inside," What we're seeing here is the nice warm inside the room.
+",2.76,9.819568251998135,0.28107142077640546,0.3333333333333333
+21,tiny.en,i cannot say to you build a house with these walls and you'll have a passive house because there are too many factors involved," cannot say to you, build a house with these walls and you have a passive house because
+ there are too many factors involved.
+",6.85,10.196777007000492,0.671780896581067,0.08333333333333333
+22,tiny.en,that was pretty much it," much it.
+ And one of the
+",1.166,9.712787139000284,0.1200479309711315,1.2
+23,tiny.en,and this is the path that we're working on ph is just my abbreviation for passive house," And this is the path that we're working on.
+ pH is just my abbreviation for passive house.
+",5.263,10.144780627997534,0.5187889411304951,0.0
+24,tiny.en,and nobody knew then that they were creating a convective pathway cause it's not more expensive or take more time to put the sheet rock up first it's just something they didn't do because the sheet rock guy came next week and that was easier," And nobody knew then that they were creating a convective pathway.
+ Because it's not more expensive or taking more time for the she-rock-up first.
+ It's just something they didn't do because the she-rock-eye came next week and that was easier.
+",14.3,11.137478024000302,1.2839531507209025,0.15555555555555556
+25,tiny.en,and the thermal bridging is insignificant," and the thermal bridging is insignificant.
+",3.083,9.691212041001563,0.3181232633190203,0.0
+26,tiny.en,they're the best thing around so i said well you're the expert," they're the best thing around. So I said, well, you're the expert.
+",3.62,9.997366398998565,0.3620953614706584,0.0
+27,tiny.en,there was a lot of work," There's a lot of work.
+",0.97,9.681117633001122,0.10019504325548645,0.3333333333333333
+28,tiny.en,i have houses that i've helped design that if you invite fifteen friends over you're heating your house," I have houses that I've helped design, that if you invite 15 friends over, you're heating
+ your house.
+",5.45,10.211072449001222,0.5337343386034914,0.05555555555555555
+29,tiny.en,the last two are passive houses," last two our passive houses.
+",2.14,9.657839200001035,0.22158165565645063,0.3333333333333333
+30,tiny.en,so that's the standard," So that's the standard.
+ Most of the time.
+",1.29,9.829136913002003,0.13124244899809925,1.0
+31,tiny.en,fortunately the basement was not all that finished so i have an opportunity," Fortunately, the basement was not all that finished, so I have an opportunity.
+",5.74,9.916904402001819,0.5788096534278709,0.0
+32,tiny.en,don't let them build a house that is gonna cost them three thousand five hundred a year to heat when we can build them a house for almost no more money fifty more down but no more outofpocket per month money that they'll be able to heat for four hundred a month in the winter," don't let them build a house that is going to cost them $3,500 a year to heat when we can build
+ them a house for almost no more money.
+ 50% more down but no more out of pocket per month money that will be able to heat for $400
+ a month in the winter.
+",17.623,11.433981696998671,1.5412828590259067,0.23636363636363636
+33,tiny.en,and water is conductive," water is conductive.
+",1.59,9.619750117002695,0.16528495861755393,0.25
+34,tiny.en,and every one of these hungry cold mice are thinking nirvana," every one of these hungry called mice are thinking nirvana.
+",3.663,9.84009201400113,0.37225261662066195,0.18181818181818182
+35,tiny.en,here's my house here's my deck," Here's my house.
+ Here's my deck.
+",2.75,9.797184725997795,0.28069288034373835,0.0
+36,tiny.en,gaseous water can move into the wall and move out of the wall," The ashes water can move into the wall and move out of the wall.
+",3.51,9.912064075997478,0.3541139335952869,0.15384615384615385
+37,tiny.en,they even have grades of insulation installation one two and three where one is the best and three is the worst," They even have grades of installation installation, 1, 2, and 3, where 1 is the best and
+ 3 is the worst.
+ [BLANK_AUDIO]
+",7.63,19.966086650998477,0.38214799591778964,0.2857142857142857
+38,tiny.en,so that's the first presentation," So that's the first presentation.
+",2.12,9.72406904699892,0.21801572878118164,0.0
+39,tiny.en,there are four things you have to hit on passive house," or four things you have to hit on passive house.
+",3.21,9.754351296996902,0.3290839034050651,0.18181818181818182
+40,tiny.en,i am a passive house consultant," I am a pass-off host consultant.
+",2.783,9.760383583998191,0.2851322364586809,0.5
+41,tiny.en,the cost was all the work that had to be done," cost was all the work that had to be done.
+",2.443,9.820006504996854,0.24877783927708128,0.09090909090909091
+42,tiny.en,if you build a house and someone says let's put tyvek on the outside and make sure that when we put the fiberglass in the wall make sure you put a thing of poly of that clear plastic on the inside that's death to a wall," If you build a house and someone says, ""Let's put Tyvek on the outside and make sure that
+ when you put the five of us in the wall, make sure you put a thing of poly of that clear
+ plastic on the inside.
+ That's a death to a wall.""
+",11.93,11.234284400001343,1.061927896359698,0.10869565217391304
+43,tiny.en,and then i wanted that bay window replaced with a flat window and that costed me another four thousand," And then I wanted that bay window replaced with a flat window and that cost me another
+ $4,000.
+",5.1,10.145908440998028,0.502665683379489,0.15789473684210525
+44,tiny.en,so i said instead of doing that i'm gonna put a bunch of fourbyfours on stilts into the ground," So I said instead of doing that, I'm going to put a bunch of 4 by 4's on stilts into the ground
+",6.34,10.185422463000577,0.6224582262572411,0.2631578947368421
+45,tiny.en,i just make up a number," I just make a good number.
+ - All right.
+",1.328,9.818763422001211,0.13525124732349786,0.6666666666666666
+46,tiny.en,now i'm gonna ask the question," Now I'm going to ask the question.
+",1.61,9.741462153000612,0.1652729307688251,0.3333333333333333
+47,tiny.en,and as soon as the energy that you're using goes up in price then because your passive house is using ninety less than that house your incremental increase in cost is smaller," And as soon as the energy that you're using goes up in price, then because your passive
+ house is using 90% less than that house, your incremental increase in cost is smaller.
+",12.9,10.56614431699927,1.2208805419443232,0.03125
+48,tiny.en,i work with a contractor who does energy audits and we walk around the thermal imaging camera," work with a contractor who does energy audits, and we walk around with thermal imaging
+ camera.
+",7.84,10.120338063999952,0.774677678791031,0.11764705882352941
+49,tiny.en,what does it cost for this person who's living in this house now this is a habitat house," What is a cost for this person who's living in this house?
+ Now this is a habitat house like a--
+",3.45,10.206719662997784,0.33801261462164145,0.2222222222222222
+50,tiny.en,there's a maximum overheating of twelve," There's a maximum overheating of 12%.
+",2.83,9.723412960996939,0.2910500676410478,0.16666666666666666
+51,tiny.en,it seemed like a good idea at the time," seem like a good idea at the time.
+",1.37,9.744743552000728,0.14058861505069783,0.2222222222222222
+52,tiny.en,every time i've undone a wall in the garage or somewhere and looked at that in the basement to look at that stuff it's black with dirt," Every time I've undone a wall like in the garage or somewhere and looked at that in the basement too.
+ Look at that stuff. It's black with dirt.
+",11.547,10.458162043996708,1.1041137009947477,0.07407407407407407
+53,tiny.en,when i'm doing my air sealing when i am in a passive house or in a house that i'm trying to make really tight every hole in your wall is going to increase your air changes per hour," When I'm doing my air ceiling, when I am in a passive house or in a house I'm trying to make
+ really tight, every hole in your wall is going to increase your air changes per hour.
+",10.46,10.767327174999082,0.9714574313565328,0.05263157894736842
+54,tiny.en,i'm also adding seven twelve inches of rock wool downstairs on the inside because you have that bump out with the cinder block wall and i decided i just wanted to fill that up," I'm also adding seven and a half inches of rock wall downstairs on the inside because
+ you know you have that bump out with the cinder block wall and I decided I just wanted
+ to fill that up.
+",9.56,10.778075523998268,0.8869858054634965,0.17647058823529413
+55,tiny.en,i was amazed i thought that i had a great view with this window with the fivebyfive and then the two side windows," I was amazed. I thought that I had a great view with this window, you know, with the five
+ by five and then the two side windows.
+",7.23,10.393481330000213,0.6956283241815235,0.21739130434782608
+56,tiny.en,you have a very nice house feelingwise," have a very nice house, feeling wise.
+",2.823,9.75484729100208,0.28939458668962964,0.42857142857142855
+57,tiny.en,now you can build a passive house with lots of foam either the blue boards that you see at lowe's or with polyiso or any of these foam products," You can build a passive house with lots of foam, either the blueboards that you see at
+ Lowe's or with poly-isoe.
+",11.88,10.313004472001921,1.1519436486478998,0.3448275862068966
+58,tiny.en,a lot of houses have thermal bridging and in passive house we need to eliminate that thermal bridging in order to get to a super energy efficient house," lot of houses have thermal bridging and in passive house we need to eliminate that thermal
+ bridging in order to get to a super energy efficient house.
+",8.753,10.382609066000441,0.8430443585382731,0.03571428571428571
+59,tiny.en,and we found through studies that people are comfortable at a lower set temperature if all the surfaces are radiating the same temperature," And we found through studies that people are comfortable at a lower set temperature if all
+ the services are radiating the same temperature.
+",8.823,10.249674802002119,0.8608077983387884,0.043478260869565216
+60,tiny.en,and what that means is that we're actually drawing air through the house the whole time and it gives a nice fresh air all the way through," And what that means is that we're actually drawing air through the house the whole time.
+ That gives a nice fresh air all the way through.
+",9.76,10.385856852997676,0.9397395071147129,0.07407407407407407
+61,tiny.en,and what did the 20th century bring us well it brought us a lot of machines and it brought us cheap oil which is basically what we've been running on as a country for a hundred plus years," And what did the 20th century bring us?
+ Well, it brought us a lot of machines.
+ And it brought us cheap oil, which is basically what
+ we've been running on as a country for 100 plus years.
+",12.01,10.83681621100186,1.1082590833096428,0.05263157894736842
+62,tiny.en,net zero means that your house uses a certain amount of energy and you have a certain amount of renewable energies that covers the amount of energy your house uses," That zero means that your house uses certain amount of energy, and you have a certain amount
+ of renewable energy that covers the amount of energy your house uses.
+",9.82,10.397228942998481,0.9444824244841518,0.1
+63,tiny.en,you have a right as a person who's selling that to go to the bank and say i'm selling a horse farm," have a right as a person is telling that to go to the bank and saying I'm selling a horse
+ from it.
+",4.607,10.267164892000437,0.4487119909401182,0.2727272727272727
+64,tiny.en,this is all the spray foam that he did against that osb that you just saw giving me an rvalue here," And this is all the spray foam that he did against that OSB that you just saw, giving me
+ an R value here that
+",7.2,10.217055043001892,0.7047040433565634,0.19047619047619047
+65,tiny.en,you've got a walkout basement which is where the garage is," got a walk out basement, which is where the garage is.
+",2.64,9.857908457001031,0.2678052866401987,0.2727272727272727
+66,tiny.en,air sealing first," you in for it.
+",1.61,9.908231389999855,0.1624911587778355,1.3333333333333333
+67,tiny.en,we've also done buttonedup workshops," also done button-up workshops.
+",1.95,9.677425213001698,0.2014998780233568,0.6
+68,tiny.en,and these slides are just to show you the variety of what a passive house can look like," And these slides are just to show you the variety
+ of what a past files can look like.
+",4.26,10.086743200001365,0.42233651789602644,0.1111111111111111
+69,tiny.en,so the energy triangle says the first thing we do is we reduce the load that we have," So the energy triangle says the first thing we do is we reduce the load that we have.
+",5.957,10.043842905997735,0.5930996786541479,0.0
+70,tiny.en,energy star is a department of energy program," Energy Star is a Department of Energy program.
+",3.51,9.733267064002575,0.36061889362733623,0.0
+71,tiny.en,there's some buying groups for propane now," There's some buying groups appropriate.
+",1.223,9.709564159002184,0.1259582798952001,0.42857142857142855
+72,tiny.en,this is the actual blower door test it was four hundred and twenty five," This is the actual blower door test.
+ It was 4.25.
+",3.5,9.937743692000367,0.35219262123025086,0.35714285714285715
+73,tiny.en,now we like our bedrooms a little chilly but we didn't like them that chilly," We like our bedrooms a little chilly, but we didn't like them that chilly.
+",4.09,9.956649275998643,0.4107807643540579,0.06666666666666667
+74,tiny.en,something i did myself because i happened to have had the time to do it is that i bought myself a tagalong backhoe for three grand cause renting them was one hundred and fifty a day," Something I did myself because I happened to have had the time to do it is that I bought
+ myself a tag along back home for $3,000, because renting them was $150 a day.
+",10.28,10.67916735900144,0.9626218650216224,0.3055555555555556
+75,tiny.en,and if you get there then you do this," And if you get there, then you do this.
+",2.68,9.778001183000015,0.2740846467332644,0.0
+76,tiny.en,this is an intelligent membrane," This is an intelligent membrane.
+",1.99,9.67794689099901,0.20562212444571304,0.0
+77,tiny.en,the other thing we'll notice is that this orange dot is the room that has that heat pump blowing that warm air in," The other thing we'll notice is that this orange dot is the room that has that heat pump
+ blowing that warm air in.
+",7.003,10.280352683003002,0.681202310459484,0.0
+78,tiny.en,we like cellulose which is recycled newspapers," We like cellulose, which is a recycled newspapers.
+",3.91,9.777873432998604,0.3998824516182054,0.14285714285714285
+79,tiny.en,internal heat gains your refrigerator your washing machine your television all of your electronics your light bulbs everything your dog everything that you have in that house that's giving off heat is a heat source," into an heat gain. You refrigerate your washing machine, your television, all of your electronics,
+ your light bulbs, everything, your dog, everything that you have in that house that's giving
+ off heat is a heat source.
+",13.73,10.920109506998415,1.2573133988446543,0.14285714285714285
+80,tiny.en,so that costs me another three thousand more than expected and that brought me up to my about fifty thousand that i paid jim to do work," that cost me another $3,000 when expecting that brought me up to my about $50,000
+ other page into do the work.
+",6.4,10.346023820002301,0.6185951348407563,0.5925925925925926
+81,tiny.en,and okay," And...
+",1.347,9.6790808500009,0.13916610687262465,0.5
+82,tiny.en,now why polyiso polyisocyanurate board is got a very high rvalue and you can buy used very cheaply which means that i'm saving it from going into a landfill i'm not causing them to make more for me and i'm getting a high rvalue," Why polyiso?
+ Polyiso's your net board is got a very high R value,
+ and you can buy it used very cheaply, which means
+ that I'm saving it from going into a landfill.
+ I'm not causing them to make more for me,
+ and I'm getting a high R value.
+",15.59,18.070594649001578,0.862727558379567,0.20454545454545456
+83,tiny.en,if you leave that stuff out in the rain a week later you can just squeeze the water out of it," that stuff out in the rain a week later you can just squeeze the water out of it.
+",4.247,9.983175109999138,0.42541575733217474,0.14285714285714285
+84,tiny.en,this is the code house and what the mortgage would have been and the energy costs," This is the code house and what the mortgage would have been and the energy costs.
+",5.89,10.012826895999751,0.5882454636615287,0.0
+85,tiny.en,what's fascinating about vermont is that it's got a very democratic legislature overall but there's also a very deep libertarian democratic bent which says we cannot force things on people because that's not what we do and every time they appoint someone and say look what we'd really like to do is to say you cannot sell a house unless you have an energy audit and i talked to the people in those groups who are representing the bank and the real estate side of things," What's fascinating is about Vermont is that it's got a very democratic legislature overall,
+ but there's also a very deep libertarian democratic bent which says we cannot force things
+ on people because that's not what we do.
+ And every time they appoint someone and say, ""Look, what we'd really like to do is to say
+ you cannot sell a house unless you have an energy audit.""
+ And I talked to the people and those groups who are representing the bank and the
+ real estate side of things.
+",39.55,23.1659046700006,1.7072503993861499,0.023255813953488372
+86,tiny.en,hot air rises," as heat goes.
+",0.833,9.753519421999954,0.08540506907907441,1.0
+87,tiny.en,now i have to explain something about that," Now I have to explain something about that.
+",3.12,9.73050254899863,0.32064119857006573,0.0
+88,tiny.en,it'll be a little worse than the passive house standard," be a little worse than a passcode center.
+",1.87,9.747267843998998,0.19184863183494894,0.5
+89,tiny.en,first of all if you've seen black when you open up a wall if you see black in your fiberglass you have airwashing," If you see black, when you open up a wall, if you see black in your five of us, you're
+ having air washing.
+",7.38,10.316661262000707,0.7153477091646604,0.5217391304347826
+90,tiny.en,as a matter of fact i had an pendleton avalon and i thought that i could buy an outside air unit for it and i found out afterwards that i couldn't so i had to get rid of my wood stove and buy a brand new wood stove," matter of fact I had a Pendleton Avalon and I thought that I could buy an outside air
+ unit for it and I found out afterwards that I couldn't. So I had to get rid of my wood stove
+ and by a brand new wood stove.
+",11.91,20.64655200699781,0.576851766627343,0.08333333333333333
+91,tiny.en,so i have six inches of that poly of that styrofoam outside i put two inches on the inside and i'm building the whole wall out to meet that," It's just an inch of that styrofoam outside.
+ I put two inches on the inside and I'm building the whole wall out to meet that.
+",7.777,10.396723585003201,0.7480241189847509,0.27586206896551724
+92,tiny.en,it's tied to something called the international energy commission code which is the minimum that you can build to," It's tied to something called the International Energy Commission Code, which is the minimum
+ that you can build to.
+",9.07,10.1450397539993,0.8940329678278979,0.0
+93,tiny.en,if you're jumping around you can give off more but you're putting off as much as a hundred watt light bulb," If you're jumping around, you can give off more.
+ But you're putting off as much as 100 watt light bulb.
+",4.84,10.219140565000998,0.47362104173185204,0.09523809523809523
+94,tiny.en,why however is that so high why is this one using three times the heating energy of that it happens that that family is being lived in by the family that lives there was from the sudan and they'd like to keep their house at ninety degrees," Why, however, is that so high?
+ Why is this one using three times the heating energy of that?
+ It happens that that family is being lived in by--
+ the family lives there is from the Sudan.
+ And they'd like to eat their house at 90 degrees.
+",16.18,11.191465536998294,1.4457445226016128,0.0851063829787234
+95,tiny.en,yeah," You gotta be careful.
+",0.833,9.628868112002237,0.08651068747755286,4.0
+96,tiny.en,i put another stud on just a twobyfour stud so i could get two layers of three 12inch rock wool in there making seven inches," They put another stud on just a 2x4 stud so it could get two layers of 3.5 inch rock
+ wool in there making seven inches.
+",7.413,10.395721913999296,0.7130817908872069,0.24
+97,tiny.en,i don't have any access to the house," don't have any access to the house.
+",1.77,9.714712312998017,0.18219788121072703,0.125
+98,tiny.en,are there questions i got one," other questions.
+",2.056,9.54571996499726,0.21538448724025502,0.8333333333333334
+99,tiny.en,so there's your four thousand five hundred what do you do here's the modified chainsaw so here's my wall coming up and here's my ceiling joist coming out and that's my roof joist my truss my it's actually gusset this is called a gusset," So there's your $4500.
+ What do you do?
+ Here's the modified chainsaw.
+ So here's my wall coming up.
+ And here's my ceiling joist coming out.
+ And that's my roof joist.
+ It's actually gusseted.
+ This is called a gusset.
+",15.29,11.638093656998535,1.3137890491889452,0.18181818181818182

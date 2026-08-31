@@ -1,0 +1,786 @@
+index,model,reference,hypothesis,audio_sec,infer_sec,x_real_time,wer
+0,small.en,CONCORD RETURNED TO ITS PLACE AMIDST THE TENTS," Concorde returned to its place amidst the tents.
+",3.505,97.63905031799996,0.03589752244193885,0.125
+1,small.en,THE ENGLISH FORWARDED TO THE FRENCH BASKETS OF FLOWERS OF WHICH THEY HAD MADE A PLENTIFUL PROVISION TO GREET THE ARRIVAL OF THE YOUNG PRINCESS THE FRENCH IN RETURN INVITED THE ENGLISH TO A SUPPER WHICH WAS TO BE GIVEN THE NEXT DAY," The English forwarded to the French baskets of flowers of which they had made a plentiful
+ provision to greet the arrival of the young princess.
+ The French, in return, invited the English to a supper, which was to be given the next
+ day.
+",14.225,96.286695216,0.14773588363469167,0.0
+2,small.en,CONGRATULATIONS WERE POURED IN UPON THE PRINCESS EVERYWHERE DURING HER JOURNEY," Congratulations were poured in upon the princess everywhere during her journey.
+",5.025,90.52303766699998,0.05551073107472459,0.0
+3,small.en,FROM THE RESPECT PAID HER ON ALL SIDES SHE SEEMED LIKE A QUEEN AND FROM THE ADORATION WITH WHICH SHE WAS TREATED BY TWO OR THREE SHE APPEARED AN OBJECT OF WORSHIP THE QUEEN MOTHER GAVE THE FRENCH THE MOST AFFECTIONATE RECEPTION FRANCE WAS HER NATIVE COUNTRY AND SHE HAD SUFFERED TOO MUCH UNHAPPINESS IN ENGLAND FOR ENGLAND TO HAVE MADE HER FORGET FRANCE," From the respect paid her on all sides, she seemed like a queen, and from the adoration
+ with which she was treated by two or three, she appeared an object of worship.
+ The Queen Mother gave the French the most affectionate reception.
+ France was her native country, and she had suffered too much unhappiness in England for
+ England to have made her forget France.
+",23.315,100.08419028499998,0.23295387546832474,0.0
+4,small.en,SHE TAUGHT HER DAUGHTER THEN BY HER OWN AFFECTION FOR IT THAT LOVE FOR A COUNTRY WHERE THEY HAD BOTH BEEN HOSPITABLY RECEIVED AND WHERE A BRILLIANT FUTURE OPENED BEFORE THEM," She taught her daughter, then, by her own affection for it, that love for a country where they had both been hospitably received and where a brilliant future opened for them.
+",11.065,93.72412905499993,0.11805924591208256,0.03225806451612903
+5,small.en,THE COUNT HAD THROWN HIMSELF BACK ON HIS SEAT LEANING HIS SHOULDERS AGAINST THE PARTITION OF THE TENT AND REMAINED THUS HIS FACE BURIED IN HIS HANDS WITH HEAVING CHEST AND RESTLESS LIMBS," The Count had thrown himself back on his seat, leaning his shoulders against the partition
+ of the tent, and remained thus, his face buried in his hands, with heaving chest and restless
+ limbs.
+",13.16,94.658593139,0.13902594115967257,0.0
+6,small.en,THIS HAS INDEED BEEN A HARASSING DAY CONTINUED THE YOUNG MAN HIS EYES FIXED UPON HIS FRIEND," ""This has indeed been a harassing day,"" continued the young man, his eyes fixed upon
+ his friend.
+",5.85,92.15078380799991,0.06348291092334846,0.0
+7,small.en,YOU WILL BE FRANK WITH ME I ALWAYS AM," You will be frank with me. I always am
+",3.315,90.326470471,0.036700205185857517,0.0
+8,small.en,CAN YOU IMAGINE WHY BUCKINGHAM HAS BEEN SO VIOLENT I SUSPECT," Can you imagine why Buckingham has been so violent?
+ I suspect.
+",4.785,91.06776033400001,0.05254329284535537,0.0
+9,small.en,IT IS YOU WHO ARE MISTAKEN RAOUL I HAVE READ HIS DISTRESS IN HIS EYES IN HIS EVERY GESTURE AND ACTION THE WHOLE DAY," It is you who are mistaken, Ral, I have read his distress in his eyes, in his every gesture
+ and action the whole day.
+",7.28,93.18067381700007,0.07812778875475165,0.041666666666666664
+10,small.en,I CAN PERCEIVE LOVE CLEARLY ENOUGH," I can perceive love clearly enough.
+",3.035,89.91438075199994,0.03375433356284883,0.0
+11,small.en,I AM CONVINCED OF WHAT I SAY SAID THE COUNT," I am convinced of what I say,"" said the Count.
+",3.195,90.7989430770001,0.03518763425792906,0.0
+12,small.en,IT IS ANNOYANCE THEN," It is annoyance then.
+",1.94,89.664759581,0.021636147903206854,0.0
+13,small.en,IN THOSE VERY TERMS I EVEN ADDED MORE," In those very terms, I even added more.
+",2.94,90.33506956199994,0.03254549992881979,0.0
+14,small.en,BUT CONTINUED RAOUL NOT INTERRUPTED BY THIS MOVEMENT OF HIS FRIEND HEAVEN BE PRAISED THE FRENCH WHO ARE PRONOUNCED TO BE THOUGHTLESS AND INDISCREET RECKLESS EVEN ARE CAPABLE OF BRINGING A CALM AND SOUND JUDGMENT TO BEAR ON MATTERS OF SUCH HIGH IMPORTANCE," ""But,"" continued Raoul, not interrupted by this movement of his friend, ""heaven be
+ praised the French, who are pronounced to be thoughtless and indiscreet, reckless even,
+ are capable of bringing a calm and sound judgment to bear on matters of such high importance.""
+",16.84,97.04909340799986,0.17352042567985348,0.0
+15,small.en,THUS IT IS THAT THE HONOR OF THREE IS SAVED OUR COUNTRY'S OUR MASTER'S AND OUR OWN," Thus, it is that the honor of three is saved, our country, our masters, and our own.
+",6.38,91.91524927200021,0.06941176845552563,0.11764705882352941
+16,small.en,YES I NEED REPOSE MANY THINGS HAVE AGITATED ME TO DAY BOTH IN MIND AND BODY WHEN YOU RETURN TO MORROW I SHALL NO LONGER BE THE SAME MAN," Yes, I need repose.
+ Many things have agitated me today, both in mind and body.
+ When you return tomorrow, I shall no longer be the same man.""
+",10.015,93.9565056020001,0.10659187392966225,0.13793103448275862
+17,small.en,BUT IN THIS FRIENDLY PRESSURE RAOUL COULD DETECT THE NERVOUS AGITATION OF A GREAT INTERNAL CONFLICT," but in this friendly pressure Ral could detect the nervous agitation of a great internal
+ conflict.
+",6.16,91.66371547800009,0.0672021635592378,0.0625
+18,small.en,THE NIGHT WAS CLEAR STARLIT AND SPLENDID THE TEMPEST HAD PASSED AWAY AND THE SWEET INFLUENCES OF THE EVENING HAD RESTORED LIFE PEACE AND SECURITY EVERYWHERE," The night was clear, starlet and splendid.
+ The tempest had passed away, and the sweet influences of the evening had restored life,
+ peace and security everywhere.
+",10.81,94.18444707499998,0.11477478857408266,0.038461538461538464
+19,small.en,UPON THE LARGE SQUARE IN FRONT OF THE HOTEL THE SHADOWS OF THE TENTS INTERSECTED BY THE GOLDEN MOONBEAMS FORMED AS IT WERE A HUGE MOSAIC OF JET AND YELLOW FLAGSTONES," Upon the large square in front of the hotel, the shadows of the tents, intersected by the
+ golden moon beams, formed as it were, a huge mosaic of jet and yellow flagstones.
+",11.6450625,94.52564224399976,0.12319474614031727,0.06451612903225806
+20,small.en,BRAGELONNE WATCHED FOR SOME TIME THE CONDUCT OF THE TWO LOVERS LISTENED TO THE LOUD AND UNCIVIL SLUMBERS OF MANICAMP WHO SNORED AS IMPERIOUSLY AS THOUGH HE WAS WEARING HIS BLUE AND GOLD INSTEAD OF HIS VIOLET SUIT," Bragalon watched for some time the conduct of the two lovers listen to the loud and uncivil slumbers of Mannekemp, who snored as impiously as though he was wearing his blue and gold instead of his violet suit.
+",14.4,95.59738381800025,0.1506317372389075,0.10526315789473684
+21,small.en,GOLIATH MAKES ANOTHER DISCOVERY," Goliath makes another discovery.
+",3.025,90.08468523899955,0.03357951456426263,0.0
+22,small.en,THEY WERE CERTAINLY NO NEARER THE SOLUTION OF THEIR PROBLEM," There were certainly no near the solution of their problem.
+",3.2,90.42747266200013,0.03538747579467318,0.2
+23,small.en,THE POOR LITTLE THINGS CRIED CYNTHIA THINK OF THEM HAVING BEEN TURNED TO THE WALL ALL THESE YEARS," ""The poor little things,"" cried Cynthia, ""think of them having been turned to the wall all
+ these years.""
+",5.56,92.31999947399981,0.0602253036360325,0.0
+24,small.en,NOW WHAT WAS THE SENSE OF IT TWO INNOCENT BABIES LIKE THAT," Now what is the sense of it?
+ Two innocent babies like that.
+",3.385,91.21186577199978,0.03711139961177208,0.08333333333333333
+25,small.en,BUT JOYCE HAD NOT BEEN LISTENING ALL AT ONCE SHE PUT DOWN HER CANDLE ON THE TABLE AND FACED HER COMPANION," But Joyce had not been listening.
+ All at once, she put down her candle on the table and faced her companion.
+",6.15,92.55710742500014,0.06644546454720834,0.0
+26,small.en,THE TWIN BROTHER DID SOMETHING SHE DIDN'T LIKE AND SHE TURNED HIS PICTURE TO THE WALL," The twin brother did something she didn't like and she turned his picture to the wall
+",5.035,91.57232415899989,0.05498386162239993,0.0
+27,small.en,HERS HAPPENED TO BE IN THE SAME FRAME TOO BUT SHE EVIDENTLY DIDN'T CARE ABOUT THAT," Hers happened to be on the same frame too, but she evidently didn't care about it.
+",4.455,91.75054429800002,0.04855557025940292,0.125
+28,small.en,NOW WHAT HAVE YOU TO SAY CYNTHIA SPRAGUE," Now what have you to say, Cynthia Sprague?
+",2.82,90.4690292119999,0.031170888253832976,0.0
+29,small.en,I THOUGHT WE WERE STUMPED AGAIN WHEN I FIRST SAW THAT PICTURE BUT IT'S BEEN OF SOME USE AFTER ALL," I thought we were stumped again when I first saw that picture, but it's been of some use after all.
+",5.185,92.25595143500004,0.05620233621083133,0.0
+30,small.en,DO YOU SUPPOSE THE MINIATURE WAS A COPY OF THE SAME THING," Do you suppose the miniature was a copy of the same thing?
+",3.405,90.70938522100005,0.03753746088901627,0.0
+31,small.en,WHAT IN THE WORLD IS THAT QUERIED JOYCE," What in the world is it, query choice?
+",2.69,90.26837815999988,0.029800025821135275,0.375
+32,small.en,THEY WORRY ME TERRIBLY AND BESIDES I'D LIKE TO SEE WHAT THIS LOVELY FURNITURE LOOKS LIKE WITHOUT SUCH QUANTITIES OF DUST ALL OVER IT GOOD SCHEME CYN," They worry me terribly, and besides, I'd like to see what this lovely furniture looks like
+ without such quantities of dust all over it.
+ Good scheme, Sim!
+",9.24,93.94497926300028,0.09835544243543332,0.037037037037037035
+33,small.en,WE'LL COME IN HERE THIS AFTERNOON WITH OLD CLOTHES ON AND HAVE A REGULAR HOUSE CLEANING," We'll come in here this afternoon with old clothes on and have a regular house cleaning.
+",4.655,91.45137773999977,0.050901365458204104,0.0
+34,small.en,IT CAN'T HURT ANYTHING I'M SURE FOR WE WON'T DISTURB THINGS AT ALL," It can't hurt anything, I'm sure, for we won't disturb things at all.
+",4.305,91.8264204369998,0.04688193201382135,0.0
+35,small.en,THIS THOUGHT HOWEVER DID NOT ENTER THE HEADS OF THE ENTHUSIASTIC PAIR," This thought, however, did not enter the heads of the enthusiastic pair.
+",4.72,91.66911345100016,0.05148953472232475,0.0
+36,small.en,SMUGGLING THE HOUSE CLEANING PARAPHERNALIA INTO THE CELLAR WINDOW UNOBSERVED THAT AFTERNOON PROVED NO EASY TASK FOR CYNTHIA HAD ADDED A WHISK BROOM AND DUST PAN TO THE OUTFIT," Smuggling the house cleaning paraphernalia into the cellar window unobserved that afternoon
+ proved no easy task, for Cynthia had added a whisk broom and dust pan to the outfit.
+",12.405,94.16237721200014,0.131740514282801,0.0
+37,small.en,THE LURE PROVED TOO MUCH FOR HIM AND HE CAME SPORTING AFTER IT AS FRISKILY AS A YOUNG KITTEN MUCH TO CYNTHIA'S DELIGHT WHEN SHE CAUGHT SIGHT OF HIM," The lure proved too much for him, and he came sporting after it as friskily as a young
+ kitten, much to Cynthia's delight when she caught sight of him.
+",9.205,93.87597015799975,0.09805491207715189,0.0
+38,small.en,OH LET HIM COME ALONG SHE URGED I DO LOVE TO SEE HIM ABOUT THAT OLD HOUSE," ""Oh, let him come along,"" she urged. ""I do love to see him about that old house.""
+",5.41,92.05833385699998,0.058767085752428394,0.0
+39,small.en,HE MAKES IT SORT OF COZIER," He makes it sort of cozier.
+",2.14,90.34696652699995,0.023686462116693945,0.0
+40,small.en,NOW LET'S DUST THE FURNITURE AND PICTURES," Now let's dust the furniture and pictures.
+",2.575,91.83025135700018,0.02804086847143002,0.0
+41,small.en,YET LITTLE AS IT WAS IT HAD ALREADY MADE A VAST DIFFERENCE IN THE ASPECT OF THE ROOM," Yet, little as it was, it had already made a vast difference in the aspect of the room.
+",6.315,92.01625798999976,0.06862917638626762,0.0
+42,small.en,SURFACE DUST AT LEAST HAD BEEN REMOVED AND THE FINE OLD FURNITURE GAVE A HINT OF ITS REAL ELEGANCE AND POLISH," Surface dust at least had been removed, and the fine old furniture gave a hint of its
+ real elegance and polish.
+",7.355,92.54592014800073,0.07947405988549015,0.0
+43,small.en,THEN SHE SUDDENLY REMARKED," Then she suddenly remarked
+",1.895,89.56252193599994,0.02115840375011033,0.0
+44,small.en,AND MY POCKET MONEY IS GETTING LOW AGAIN AND YOU HAVEN'T ANY LEFT AS USUAL," and my pocket money is getting low again and you have any left as usual.
+",4.85,91.15566818100069,0.05320568755384178,0.06666666666666667
+45,small.en,THEY SAY ILLUMINATION BY CANDLE LIGHT IS THE PRETTIEST IN THE WORLD," They say illumination by candlelight is the prettiest in the world.
+",4.05,90.96781601700059,0.04452124033892506,0.16666666666666666
+46,small.en,WHY IT'S GOLIATH AS USUAL THEY BOTH CRIED PEERING IN," Why it's Goliath as usual they both cried peering in
+",4.12,90.71196998100004,0.045418482267146766,0.0
+47,small.en,ISN'T HE THE GREATEST FOR GETTING INTO ODD CORNERS," Isn't he the greatest for getting into odd corners?
+",3.085,90.41853099899981,0.03411911215449989,0.0
+48,small.en,FORGETTING ALL THEIR WEARINESS THEY SEIZED THEIR CANDLES AND SCURRIED THROUGH THE HOUSE FINDING AN OCCASIONAL PAPER TUCKED AWAY IN SOME ODD CORNER," For getting all their weariness, they seize their candles and scurry through the house, finding on occasional paper tucked away in some odd corner.
+",8.27,93.02432048999981,0.08890148249875184,0.21739130434782608
+49,small.en,WELL I'M CONVINCED THAT THE BOARDED UP HOUSE MYSTERY HAPPENED NOT EARLIER THAN APRIL SIXTEENTH EIGHTEEN SIXTY ONE AND PROBABLY NOT MUCH LATER," Well, I'm convinced that the boarded up house mystery happened not earlier than April 16th,
+ 1861 and probably not much later.
+",9.875,92.95019267499993,0.10623969370916646,0.17391304347826086
+50,small.en,NO WORDS WERE SPOKEN NO LANGUAGE WAS UTTERED SAVE THAT OF WAILING AND HISSING AND THAT SOMEHOW WAS INDISTINCT AS IF IT EXISTED IN FANCY AND NOT IN REALITY," No words were spoken, no language was uttered, save that of wailing and hissing, and that
+ somehow was indistinct, as if it existed in fancy and not in reality.
+",12.895,94.45233864799957,0.13652388267543555,0.0
+51,small.en,I HEARD A NOISE BEHIND I TURNED AND SAW KAFFAR HIS BLACK EYES SHINING WHILE IN HIS HAND HE HELD A GLEAMING KNIFE HE LIFTED IT ABOVE HIS HEAD AS IF TO STRIKE BUT I HAD THE STRENGTH OF TEN MEN AND I HURLED HIM FROM ME," I heard a noise behind.
+ I turned and saw Kaffer, his black eyes shining.
+ While in his hand he held a gleaming knife.
+ He lifted it above his head as if to strike, but I had the strength of ten men, and I hurled
+ him from me.
+",17.485,97.44722705299955,0.1794304520383147,0.02127659574468085
+52,small.en,ONWARD SAID A DISTANT VOICE," ""Onward!"" said a distant voice.
+",3.305,89.99126514199997,0.036725786605899355,0.0
+53,small.en,NO SOUND BROKE THE STILLNESS OF THE NIGHT," No sound broke the stillness of the night.
+",3.295,90.47642764899956,0.036418325586227256,0.0
+54,small.en,THE STORY OF ITS EVIL INFLUENCE CAME BACK TO ME AND IN MY BEWILDERED CONDITION I WONDERED WHETHER THERE WAS NOT SOME TRUTH IN WHAT HAD BEEN SAID," The story of its evil influence came back to me, and in my bewildered condition I wondered
+ whether there was not some truth in what had been said.
+",9.56,93.48153433300013,0.10226618623893514,0.0
+55,small.en,WHAT WAS THAT," What was that?
+",1.815,89.43503703799979,0.02029405991332938,0.0
+56,small.en,WHAT THEN A HUMAN HAND LARGE AND SHAPELY APPEARED DISTINCTLY ON THE SURFACE OF THE POND," What, then, a human hand, large and shapely, appeared distinctly on the surface of the
+ pond?
+",6.8,92.25391086599939,0.07370961226648844,0.0
+57,small.en,NOTHING MORE NOT EVEN THE WRIST TO WHICH IT MIGHT BE ATTACHED," Nothing more, not even the wrist to which it might be attached.
+",4.365,90.88162086800003,0.04802951309968266,0.0
+58,small.en,IT DID NOT BECKON OR INDEED MOVE AT ALL IT WAS AS STILL AS THE HAND OF DEATH," It did not beckon, or indeed move at all; it was as still as the hand of death.
+",6.055,91.95785606400023,0.06584538025534088,0.0
+59,small.en,I AWOKE TO CONSCIOUSNESS FIGHTING AT FIRST IT SEEMED AS IF I WAS FIGHTING WITH A PHANTOM BUT GRADUALLY MY OPPONENT BECAME MORE REAL TO ME IT WAS KAFFAR," I awoke to consciousness, fighting.
+ At first it seemed as if I was fighting with the phantom, but gradually my opponent became
+ more real to me.
+ It was Kaffir.
+",12.015,94.5219098739999,0.12711338583843998,0.06896551724137931
+60,small.en,A SOUND OF VOICES A FLASH OF LIGHT," A sound of voices, a flash of light.
+",3.835,90.21774767199986,0.04250826582306973,0.0
+61,small.en,A FEELING OF FREEDOM AND I WAS AWAKE WHERE," A feeling of freedom, and I was awake.
+ Where?
+",4.7,91.06676701799915,0.0516104848552607,0.0
+62,small.en,SAID ANOTHER VOICE WHICH I RECOGNIZED AS VOLTAIRE'S KAFFAR," I said another voice which I recognized as Voltaire's.
+ Kaffir?
+",4.43,91.59284082799968,0.048366225569081385,0.2222222222222222
+63,small.en,I HAD SCARCELY KNOWN WHAT I HAD BEEN SAYING OR DOING UP TO THIS TIME BUT AS HE SPOKE I LOOKED AT MY HAND," I had scarcely known what I had been saying or doing up to this time, but as he spoke
+ I looked at my hand.
+",7.325,92.65554125299968,0.079056253958938,0.0
+64,small.en,IN THE LIGHT OF THE MOON I SAW A KNIFE RED WITH BLOOD AND MY HAND TOO WAS ALSO DISCOLOURED," In the light of the moon I saw a knife red with blood and my hand too was also discolored.
+",7.41,92.21694213699993,0.08035399817304187,0.05
+65,small.en,I DO NOT KNOW I AM DAZED BEWILDERED," I do not know. I am dazed. Bewildered.
+",3.73,91.05708516699997,0.04096331431166644,0.0
+66,small.en,BUT THAT IS KAFFAR'S KNIFE," But that is Kaffir's knife.
+",2.16,90.58454069799973,0.023845128355855283,0.2
+67,small.en,I KNOW HE HAD IT THIS VERY EVENING," I know he had it this very evening.
+",2.34,90.89307043600002,0.025744536836255848,0.0
+68,small.en,I REMEMBER SAYING HAVE WE BEEN TOGETHER," I remember saying, ""Have we been together?""
+",2.93,91.23364351200053,0.03211534569059055,0.0
+69,small.en,VOLTAIRE PICKED UP SOMETHING FROM THE GROUND AND LOOKED AT IT," A wheelchair picked up something from the ground and looked at it.
+",3.38,91.54861803199947,0.036920273322078666,0.18181818181818182
+70,small.en,I SAY YOU DO KNOW WHAT THIS MEANS AND YOU MUST TELL US," I say, you do know what this means, and you must tell us.
+",5.0,91.9877478010003,0.05435506488121268,0.0
+71,small.en,A TERRIBLE THOUGHT FLASHED INTO MY MIND," A terrible thought flashed into my mind.
+",3.225,90.86961222099944,0.03549041226407612,0.0
+72,small.en,I HAD AGAIN BEEN ACTING UNDER THE INFLUENCE OF THIS MAN'S POWER," I had again been acting under the influence of this man's power.
+",4.34,91.80876348600032,0.04727217571840835,0.0
+73,small.en,PERCHANCE TOO KAFFAR'S DEATH MIGHT SERVE HIM IN GOOD STEAD," Per chance too, Kaffir's death might serve him in good stead.
+",4.885,91.994016654,0.053101279601401055,0.3
+74,small.en,MY TONGUE REFUSED TO ARTICULATE MY POWER OF SPEECH LEFT ME," My tongue refused to articulate.
+ My power of speech left me.
+",5.05,91.77651313200022,0.055024971287988375,0.0
+75,small.en,MY POSITION WAS TOO TERRIBLE," My position was too terrible.
+",2.53,90.6865137550003,0.02789830477809607,0.0
+76,small.en,MY OVERWROUGHT NERVES YIELDED AT LAST," My over-wrought nerves yielded at last.
+",3.075,90.91266107699994,0.03382367168194075,0.3333333333333333
+77,small.en,FOR SOME TIME AFTER THAT I REMEMBERED NOTHING DISTINCTLY," For some time after that, I remembered nothing distinctly
+",3.85,91.04099683799996,0.04228864065329559,0.0
+78,small.en,NOTWITHSTANDING THE HIGH RESOLUTION OF HAWKEYE HE FULLY COMPREHENDED ALL THE DIFFICULTIES AND DANGER HE WAS ABOUT TO INCUR," Notwithstanding the high resolution of Hakai, he fully comprehended all the difficulties and danger he was about to incur.
+",7.835,92.94170260600004,0.08430015569237265,0.05263157894736842
+79,small.en,IN HIS RETURN TO THE CAMP HIS ACUTE AND PRACTISED INTELLECTS WERE INTENTLY ENGAGED IN DEVISING MEANS TO COUNTERACT A WATCHFULNESS AND SUSPICION ON THE PART OF HIS ENEMIES THAT HE KNEW WERE IN NO DEGREE INFERIOR TO HIS OWN," In his return to the camp, his acute and practiced intellects were intently engaged in devising
+ means to counteract a watchfulness and suspicion on the part of his enemies that he knew were
+ in no degree inferior to his own.
+",14.055,96.32893202299965,0.1459063201971782,0.025
+80,small.en,IN OTHER WORDS WHILE HE HAD IMPLICIT FAITH IN THE ABILITY OF BALAAM'S ASS TO SPEAK HE WAS SOMEWHAT SKEPTICAL ON THE SUBJECT OF A BEAR'S SINGING AND YET HE HAD BEEN ASSURED OF THE LATTER ON THE TESTIMONY OF HIS OWN EXQUISITE ORGANS," In other words, while he had implicit faith in the ability of Balaam's asked to speak,
+ he was somewhat skeptical on the subject of a bear's singing, and yet he had been assured
+ of the latter on the testimony of his own exquisite organs.
+",13.585,97.88324139299948,0.13878780276039762,0.022727272727272728
+81,small.en,THERE WAS SOMETHING IN HIS AIR AND MANNER THAT BETRAYED TO THE SCOUT THE UTTER CONFUSION OF THE STATE OF HIS MIND," There was something in his air and manner that betrayed to the Scout the utter confusion of the state of his mind.
+",6.285,92.4626861329998,0.06797336593660663,0.0
+82,small.en,THE INGENIOUS HAWKEYE WHO RECALLED THE HASTY MANNER IN WHICH THE OTHER HAD ABANDONED HIS POST AT THE BEDSIDE OF THE SICK WOMAN WAS NOT WITHOUT HIS SUSPICIONS CONCERNING THE SUBJECT OF SO MUCH SOLEMN DELIBERATION," The ingenious Hawkeye, who recalled the hasty manner in which the other had abandoned his
+ post at the bedside of the sick woman, was not without his suspicions concerning the
+ subject of so much solemn deliberation.
+",12.26,95.35262381299981,0.1285753816700799,0.0
+83,small.en,THE BEAR SHOOK HIS SHAGGY SIDES AND THEN A WELL KNOWN VOICE REPLIED," The bear shook his shaggy sides, and then a well-known voice replied,
+",4.4,91.6004660210001,0.04803469011818419,0.0
+84,small.en,CAN THESE THINGS BE RETURNED DAVID BREATHING MORE FREELY AS THE TRUTH BEGAN TO DAWN UPON HIM," ""Can these things be?""
+ returned David, breathing more freely as the truth began to dawn upon him.
+",5.655,92.04806388399993,0.06143529544658863,0.0
+85,small.en,COME COME RETURNED HAWKEYE UNCASING HIS HONEST COUNTENANCE THE BETTER TO ASSURE THE WAVERING CONFIDENCE OF HIS COMPANION YOU MAY SEE A SKIN WHICH IF IT BE NOT AS WHITE AS ONE OF THE GENTLE ONES HAS NO TINGE OF RED TO IT THAT THE WINDS OF THE HEAVEN AND THE SUN HAVE NOT BESTOWED NOW LET US TO BUSINESS," ""Come, come,"" returned Hawkeye, uncasing his honest countenance, the better to assure the
+ wavering confidence of his companion.
+ You may see a skin which, if it be not as white as one of the gentle ones, has no tinge
+ of red to it that the winds of the heaven and the sun have not bestowed.
+ Now let us to business.
+",18.525,100.06212508699991,0.1851349847296694,0.0
+86,small.en,THE YOUNG MAN IS IN BONDAGE AND MUCH I FEAR HIS DEATH IS DECREED," The young man is in bondage, and much I fear his death is decreed.
+",4.185,91.3167600050001,0.045829484092195644,0.0
+87,small.en,I GREATLY MOURN THAT ONE SO WELL DISPOSED SHOULD DIE IN HIS IGNORANCE AND I HAVE SOUGHT A GOODLY HYMN CAN YOU LEAD ME TO HIM," I greatly mourn that one so well disposed should die in his ignorance, and I have sought
+ a goodly him.
+ Can you lead me to him?""
+",7.705,93.61072708100073,0.08230894300535574,0.038461538461538464
+88,small.en,THE TASK WILL NOT BE DIFFICULT RETURNED DAVID HESITATING THOUGH I GREATLY FEAR YOUR PRESENCE WOULD RATHER INCREASE THAN MITIGATE HIS UNHAPPY FORTUNES," ""The task will not be difficult,"" returned David, hesitating, ""though I greatly fear
+ your presence would rather increase than mitigate his unhappy fortunes.""
+",10.0,93.6275794230005,0.10680613620075503,0.0
+89,small.en,THE LODGE IN WHICH UNCAS WAS CONFINED WAS IN THE VERY CENTER OF THE VILLAGE AND IN A SITUATION PERHAPS MORE DIFFICULT THAN ANY OTHER TO APPROACH OR LEAVE WITHOUT OBSERVATION," The lodge in which Unkus was confined was in the very center of the village, and in
+ a situation perhaps more difficult than any other to approach or leave without observation.
+",9.76,93.69610901099986,0.10416654547366724,0.03225806451612903
+90,small.en,FOUR OR FIVE OF THE LATTER ONLY LINGERED ABOUT THE DOOR OF THE PRISON OF UNCAS WARY BUT CLOSE OBSERVERS OF THE MANNER OF THEIR CAPTIVE," Four or five of the latter only lingered about the door of the prison of Unkus, wary
+ but close observers of the manner of their captive.
+",7.59,93.46661553299964,0.0812054652532085,0.038461538461538464
+91,small.en,DELIVERED IN A STRONG TONE OF ASSENT ANNOUNCED THE GRATIFICATION THE SAVAGE WOULD RECEIVE IN WITNESSING SUCH AN EXHIBITION OF WEAKNESS IN AN ENEMY SO LONG HATED AND SO MUCH FEARED," delivered in a strong tone of assent, announced the gratification the savage would receive
+ in witnessing such an exhibition of weakness and an enemy so long hated and so much feared.
+",10.755,93.6108433599984,0.11489053633070681,0.03225806451612903
+92,small.en,THEY DREW BACK A LITTLE FROM THE ENTRANCE AND MOTIONED TO THE SUPPOSED CONJURER TO ENTER," They drew back a little from the entrance, and motioned to the supposed conjurer to enter.
+",4.9,91.8168784770005,0.05336709416915558,0.0
+93,small.en,BUT THE BEAR INSTEAD OF OBEYING MAINTAINED THE SEAT IT HAD TAKEN AND GROWLED," but the bear, instead of obeying, maintained the seat it had taken and growled.
+",5.125,91.56791514700126,0.05596938613020106,0.0
+94,small.en,THE CUNNING MAN IS AFRAID THAT HIS BREATH WILL BLOW UPON HIS BROTHERS AND TAKE AWAY THEIR COURAGE TOO CONTINUED DAVID IMPROVING THE HINT HE RECEIVED THEY MUST STAND FURTHER OFF," ""The cunning man is afraid that his breath will blow upon his brothers and take away
+ their courage too,"" continued David, improving the hint he received.
+ ""They must stand further off.""
+",10.085,94.35207213099966,0.10688689471491261,0.0
+95,small.en,THEN AS IF SATISFIED OF THEIR SAFETY THE SCOUT LEFT HIS POSITION AND SLOWLY ENTERED THE PLACE," Then, as if satisfied of their safety, the scout left his position and slowly entered
+ the place.
+",5.655,91.84358625599998,0.06157207302682575,0.0
+96,small.en,IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY," It was silent and gloomy, being tenanted solely by the captive, and lighted by the dying
+ embers of a fire which had been used for the purpose of cookery.
+",9.695,94.39881274000072,0.10270256286699911,0.034482758620689655
+97,small.en,UNCAS OCCUPIED A DISTANT CORNER IN A RECLINING ATTITUDE BEING RIGIDLY BOUND BOTH HANDS AND FEET BY STRONG AND PAINFUL WITHES," Unkus occupied a distant corner in a reclining attitude, being rigidly bound both hands
+ and feet by strong and painful withs.
+",8.23,93.05796701200052,0.0884394992095484,0.09523809523809523
+98,small.en,THE SCOUT WHO HAD LEFT DAVID AT THE DOOR TO ASCERTAIN THEY WERE NOT OBSERVED THOUGHT IT PRUDENT TO PRESERVE HIS DISGUISE UNTIL ASSURED OF THEIR PRIVACY," The scout, who had left David at the door to ascertain they were not observed, thought
+ it prudent to preserve his disguise until assured of their privacy.
+",8.895,93.50339385799998,0.09513023680732376,0.0
+99,small.en,WHAT SHALL WE DO WITH THE MINGOES AT THE DOOR THEY COUNT SIX AND THIS SINGER IS AS GOOD AS NOTHING," What shall we do with the Mingos at the door?
+ They count six, and the singer is as good as nothing.
+",5.335,92.60265085700121,0.0576117416793868,0.09523809523809523
+0,base.en,CONCORD RETURNED TO ITS PLACE AMIDST THE TENTS," Concorde returned to its place amidst the tents.
+",3.505,35.1009558049991,0.09985483071947618,0.125
+1,base.en,THE ENGLISH FORWARDED TO THE FRENCH BASKETS OF FLOWERS OF WHICH THEY HAD MADE A PLENTIFUL PROVISION TO GREET THE ARRIVAL OF THE YOUNG PRINCESS THE FRENCH IN RETURN INVITED THE ENGLISH TO A SUPPER WHICH WAS TO BE GIVEN THE NEXT DAY," The English forwarded to the French baskets of flowers of which they had made a plentiful
+ provision to greet the arrival of the young princess.
+ The French, in return, invited the English to a supper, which was to be given the next
+ day.
+",14.225,31.50465156899918,0.4515206260524877,0.0
+2,base.en,CONGRATULATIONS WERE POURED IN UPON THE PRINCESS EVERYWHERE DURING HER JOURNEY," Congratulations were poured in upon the princess everywhere during her journey.
+",5.025,29.121430560999215,0.1725533362612246,0.0
+3,base.en,FROM THE RESPECT PAID HER ON ALL SIDES SHE SEEMED LIKE A QUEEN AND FROM THE ADORATION WITH WHICH SHE WAS TREATED BY TWO OR THREE SHE APPEARED AN OBJECT OF WORSHIP THE QUEEN MOTHER GAVE THE FRENCH THE MOST AFFECTIONATE RECEPTION FRANCE WAS HER NATIVE COUNTRY AND SHE HAD SUFFERED TOO MUCH UNHAPPINESS IN ENGLAND FOR ENGLAND TO HAVE MADE HER FORGET FRANCE," From the respect paid her on all sides, she seemed like a queen, and from the adoration
+ with which she was treated by two or three, she appeared an object of worship.
+ The Queen Mother gave the French the most affectionate reception.
+ France was her native country, and she has suffered too much unhappiness in England for
+ England to have made her forget France.
+",23.315,32.81837623499996,0.7104251542809467,0.015625
+4,base.en,SHE TAUGHT HER DAUGHTER THEN BY HER OWN AFFECTION FOR IT THAT LOVE FOR A COUNTRY WHERE THEY HAD BOTH BEEN HOSPITABLY RECEIVED AND WHERE A BRILLIANT FUTURE OPENED BEFORE THEM," She taught her daughter, then, by her own affection for it, that love for a country where they had both been hospitably received, and where a brilliant future opened for them.
+",11.065,30.514849941999273,0.3626103363127023,0.03225806451612903
+5,base.en,THE COUNT HAD THROWN HIMSELF BACK ON HIS SEAT LEANING HIS SHOULDERS AGAINST THE PARTITION OF THE TENT AND REMAINED THUS HIS FACE BURIED IN HIS HANDS WITH HEAVING CHEST AND RESTLESS LIMBS," The Count had thrown himself back on his seat, leaning his shoulders against the partition
+ of the tent and remained thus.
+ His face buried in his hands with heaving chest and restless limbs.
+",13.16,30.433397982000315,0.43241967287988736,0.0
+6,base.en,THIS HAS INDEED BEEN A HARASSING DAY CONTINUED THE YOUNG MAN HIS EYES FIXED UPON HIS FRIEND," ""This has indeed been a harassing day,"" continued the young man, his eyes fixed upon his friend.
+",5.85,29.76070444800098,0.19656792769207931,0.0
+7,base.en,YOU WILL BE FRANK WITH ME I ALWAYS AM," You will be frank with me. I always am.
+",3.315,29.338468690999434,0.11299158231175808,0.0
+8,base.en,CAN YOU IMAGINE WHY BUCKINGHAM HAS BEEN SO VIOLENT I SUSPECT," Can you imagine my Buckingham has been so violent? I suspect.
+",4.785,29.23162759099978,0.16369256159630569,0.09090909090909091
+9,base.en,IT IS YOU WHO ARE MISTAKEN RAOUL I HAVE READ HIS DISTRESS IN HIS EYES IN HIS EVERY GESTURE AND ACTION THE WHOLE DAY," It is you who are mistaken, Rowell.
+ I have read his distress in his eyes, in his every gesture and action the whole day.
+",7.28,30.097378245998698,0.24188153335142543,0.041666666666666664
+10,base.en,I CAN PERCEIVE LOVE CLEARLY ENOUGH," I can perceive love clearly enough.
+",3.035,29.03867032100061,0.10451580483714865,0.0
+11,base.en,I AM CONVINCED OF WHAT I SAY SAID THE COUNT," ""I am convinced of what I say,"" said the Count.
+",3.195,29.286027071999342,0.1090963957707589,0.0
+12,base.en,IT IS ANNOYANCE THEN," It is annoyance then.
+",1.94,28.817433596999763,0.06732035986028877,0.0
+13,base.en,IN THOSE VERY TERMS I EVEN ADDED MORE," In those very terms, I even added more.
+",2.94,29.07609002600111,0.10111400801727204,0.0
+14,base.en,BUT CONTINUED RAOUL NOT INTERRUPTED BY THIS MOVEMENT OF HIS FRIEND HEAVEN BE PRAISED THE FRENCH WHO ARE PRONOUNCED TO BE THOUGHTLESS AND INDISCREET RECKLESS EVEN ARE CAPABLE OF BRINGING A CALM AND SOUND JUDGMENT TO BEAR ON MATTERS OF SUCH HIGH IMPORTANCE," But, continued Rau, not interrupted by this movement of his friend, Heaven be praised the
+ French who are pronounced to be thoughtless and indiscreet reckless even, are capable of
+ bringing a calm and sound judgment to bear on matters of such high importance.
+",16.84,31.400352110998938,0.5362997185659352,0.023255813953488372
+15,base.en,THUS IT IS THAT THE HONOR OF THREE IS SAVED OUR COUNTRY'S OUR MASTER'S AND OUR OWN," Thus, it is that the honor of three is saved, our country, our masters, and our own.
+",6.38,29.741427020999254,0.21451559790642635,0.11764705882352941
+16,base.en,YES I NEED REPOSE MANY THINGS HAVE AGITATED ME TO DAY BOTH IN MIND AND BODY WHEN YOU RETURN TO MORROW I SHALL NO LONGER BE THE SAME MAN," Yes, I need repose. Many things have agitated me today, both in mind and body. When you
+ return tomorrow, I shall no longer be the same man.
+",10.015,30.47784999599935,0.3285992942846891,0.13793103448275862
+17,base.en,BUT IN THIS FRIENDLY PRESSURE RAOUL COULD DETECT THE NERVOUS AGITATION OF A GREAT INTERNAL CONFLICT," But in this friendly pressure, Raoul could detect the nervous agitation of a great internal
+ conflict.
+",6.16,29.655568090000088,0.20771815873853258,0.0
+18,base.en,THE NIGHT WAS CLEAR STARLIT AND SPLENDID THE TEMPEST HAD PASSED AWAY AND THE SWEET INFLUENCES OF THE EVENING HAD RESTORED LIFE PEACE AND SECURITY EVERYWHERE," The night was clear, starlet and splendid.
+ The tempest had passed away and the sweet influences of the evening had restored life,
+ peace and security everywhere.
+",10.81,30.360894987999927,0.35605010999420894,0.038461538461538464
+19,base.en,UPON THE LARGE SQUARE IN FRONT OF THE HOTEL THE SHADOWS OF THE TENTS INTERSECTED BY THE GOLDEN MOONBEAMS FORMED AS IT WERE A HUGE MOSAIC OF JET AND YELLOW FLAGSTONES," Upon the large square in front of the hotel, the shadows of the tents intersected by the golden moon beams formed as it were a huge mosaic of jet and yellow flagstones.
+",11.6450625,30.487523592000798,0.3819615740471419,0.06451612903225806
+20,base.en,BRAGELONNE WATCHED FOR SOME TIME THE CONDUCT OF THE TWO LOVERS LISTENED TO THE LOUD AND UNCIVIL SLUMBERS OF MANICAMP WHO SNORED AS IMPERIOUSLY AS THOUGH HE WAS WEARING HIS BLUE AND GOLD INSTEAD OF HIS VIOLET SUIT," Braggle on watched for some time the conduct of the two lovers listened to the loud and
+ uncivil slumbers of Manicamp who snored as impirously as though he was wearing his blue
+ and gold instead of his violet suit.
+",14.4,31.323238131000835,0.4597225848673741,0.07894736842105263
+21,base.en,GOLIATH MAKES ANOTHER DISCOVERY," Goliath makes another discovery.
+",3.025,28.797618726999644,0.10504340753577188,0.0
+22,base.en,THEY WERE CERTAINLY NO NEARER THE SOLUTION OF THEIR PROBLEM," they were certainly no near the solution of their problem.
+",3.2,28.938990462998845,0.11057745791414161,0.1
+23,base.en,THE POOR LITTLE THINGS CRIED CYNTHIA THINK OF THEM HAVING BEEN TURNED TO THE WALL ALL THESE YEARS," ""The poor little things,"" cried Cynthia, ""think of them having been turned to the wall
+ all these years.""
+",5.56,29.91903806299888,0.18583485165173466,0.0
+24,base.en,NOW WHAT WAS THE SENSE OF IT TWO INNOCENT BABIES LIKE THAT," Now, what is the sense of it? Two innocent babies like that.
+",3.385,29.17620288099897,0.11601920968970517,0.08333333333333333
+25,base.en,BUT JOYCE HAD NOT BEEN LISTENING ALL AT ONCE SHE PUT DOWN HER CANDLE ON THE TABLE AND FACED HER COMPANION," But Joyce had not been listening. All at once she put down her candle on the table and faced her companion.
+",6.15,29.87624343600146,0.2058491728779104,0.0
+26,base.en,THE TWIN BROTHER DID SOMETHING SHE DIDN'T LIKE AND SHE TURNED HIS PICTURE TO THE WALL," The twin brother did something she didn't like and she turned his picture to the wall.
+",5.035,29.380110525999044,0.17137444039035962,0.0
+27,base.en,HERS HAPPENED TO BE IN THE SAME FRAME TOO BUT SHE EVIDENTLY DIDN'T CARE ABOUT THAT," hers happened to be on the same frame too, but she evidently didn't care about it.
+",4.455,29.50711172100091,0.1509805514725886,0.125
+28,base.en,NOW WHAT HAVE YOU TO SAY CYNTHIA SPRAGUE," Now what have you to say, Cynthia Sprague?
+",2.82,29.123602081999707,0.09682868183887682,0.0
+29,base.en,I THOUGHT WE WERE STUMPED AGAIN WHEN I FIRST SAW THAT PICTURE BUT IT'S BEEN OF SOME USE AFTER ALL," I thought we were stumped again when I first saw that picture, but it's been of some use after all.
+",5.185,29.745152662999317,0.17431411627783444,0.0
+30,base.en,DO YOU SUPPOSE THE MINIATURE WAS A COPY OF THE SAME THING," Do you suppose the miniature was a copy of the same thing?
+",3.405,29.49582563200056,0.11544006404437966,0.0
+31,base.en,WHAT IN THE WORLD IS THAT QUERIED JOYCE," What in the world is it, query choice?
+",2.69,29.189065916998516,0.0921577966094987,0.375
+32,base.en,THEY WORRY ME TERRIBLY AND BESIDES I'D LIKE TO SEE WHAT THIS LOVELY FURNITURE LOOKS LIKE WITHOUT SUCH QUANTITIES OF DUST ALL OVER IT GOOD SCHEME CYN," They were immediately ambosides.
+ I'd like to see what this lovely furniture looks like without such quantities of dust
+ all over it.
+ Good scheme, Sim!
+",9.24,30.490438871998776,0.30304581835605043,0.2222222222222222
+33,base.en,WE'LL COME IN HERE THIS AFTERNOON WITH OLD CLOTHES ON AND HAVE A REGULAR HOUSE CLEANING," We'll come in here this afternoon with old clothes on and have a regular house cleaning.
+",4.655,29.181565209000837,0.1595185167985506,0.0
+34,base.en,IT CAN'T HURT ANYTHING I'M SURE FOR WE WON'T DISTURB THINGS AT ALL," They can't hurt anything. I'm sure, for we won't disturb things at all.
+",4.305,29.620073206999223,0.1453406266052958,0.07692307692307693
+35,base.en,THIS THOUGHT HOWEVER DID NOT ENTER THE HEADS OF THE ENTHUSIASTIC PAIR," This thought, however, did not enter the heads of the enthusiastic pair.
+",4.72,29.289792392999516,0.16114829141390963,0.0
+36,base.en,SMUGGLING THE HOUSE CLEANING PARAPHERNALIA INTO THE CELLAR WINDOW UNOBSERVED THAT AFTERNOON PROVED NO EASY TASK FOR CYNTHIA HAD ADDED A WHISK BROOM AND DUST PAN TO THE OUTFIT," Smuggling the house cleaning paraphernalia into the cellar window unobserved that afternoon
+ proved no easy task, for Cynthia had added a whisk broom and dust pan to the outfit.
+",12.405,30.508769502999712,0.4066044026711829,0.0
+37,base.en,THE LURE PROVED TOO MUCH FOR HIM AND HE CAME SPORTING AFTER IT AS FRISKILY AS A YOUNG KITTEN MUCH TO CYNTHIA'S DELIGHT WHEN SHE CAUGHT SIGHT OF HIM," The lure proved too much for him and he came sporting after it as fiscally as a young kitten,
+ much to Cynthia's delight when she caught sight of him.
+",9.205,30.242425930000536,0.3043737305104425,0.034482758620689655
+38,base.en,OH LET HIM COME ALONG SHE URGED I DO LOVE TO SEE HIM ABOUT THAT OLD HOUSE," ""Oh, let him come along,"" she urged.
+ ""I do love to see him about that old house.""
+",5.41,29.7303448319999,0.1819689623706285,0.0
+39,base.en,HE MAKES IT SORT OF COZIER," He makes it sort of cozier.
+",2.14,29.19267822099937,0.07330605242175482,0.0
+40,base.en,NOW LET'S DUST THE FURNITURE AND PICTURES," Now let's dust the furniture and pictures.
+",2.575,29.049798645999545,0.08864088978305548,0.0
+41,base.en,YET LITTLE AS IT WAS IT HAD ALREADY MADE A VAST DIFFERENCE IN THE ASPECT OF THE ROOM," Yet, little as it was, it had already made a vast difference in the aspect of the room.
+",6.315,29.707738931001586,0.21257087301955405,0.0
+42,base.en,SURFACE DUST AT LEAST HAD BEEN REMOVED AND THE FINE OLD FURNITURE GAVE A HINT OF ITS REAL ELEGANCE AND POLISH," Surface dust, at least, had been removed, and the fine old furniture gave a hint of its
+ real elegance and polish.
+",7.355,30.03996059900055,0.24484053418647647,0.0
+43,base.en,THEN SHE SUDDENLY REMARKED," Then, she suddenly remarked,
+",1.895,28.863333698000133,0.0656542317608759,0.0
+44,base.en,AND MY POCKET MONEY IS GETTING LOW AGAIN AND YOU HAVEN'T ANY LEFT AS USUAL," and my pocket money is getting low again and you have it any left as usual.
+",4.85,29.658518657999593,0.16352805937230588,0.13333333333333333
+45,base.en,THEY SAY ILLUMINATION BY CANDLE LIGHT IS THE PRETTIEST IN THE WORLD," They say ""Illumination"" by candlelight is the prettiest in the world.
+",4.05,29.444412425000337,0.13754731938754092,0.16666666666666666
+46,base.en,WHY IT'S GOLIATH AS USUAL THEY BOTH CRIED PEERING IN," Why, it's Goliath, as usual, they both cried, peering in.
+",4.12,29.637001202001557,0.1390154142761837,0.0
+47,base.en,ISN'T HE THE GREATEST FOR GETTING INTO ODD CORNERS," Isn't he the greatest for getting into odd corners?
+",3.085,29.186022212999887,0.10570128321994818,0.0
+48,base.en,FORGETTING ALL THEIR WEARINESS THEY SEIZED THEIR CANDLES AND SCURRIED THROUGH THE HOUSE FINDING AN OCCASIONAL PAPER TUCKED AWAY IN SOME ODD CORNER," Forgetting all their weariness, they seize their candles and screw it through the house, finding on occasional paper tucked away in some odd corner.
+",8.27,30.120769375000236,0.27456137979211015,0.17391304347826086
+49,base.en,WELL I'M CONVINCED THAT THE BOARDED UP HOUSE MYSTERY HAPPENED NOT EARLIER THAN APRIL SIXTEENTH EIGHTEEN SIXTY ONE AND PROBABLY NOT MUCH LATER," Well, I'm convinced that the boarded-up house mystery happened not earlier than April 16, 1861,
+ and probably not much later.
+",9.875,30.258006756999748,0.3263598980364284,0.17391304347826086
+50,base.en,NO WORDS WERE SPOKEN NO LANGUAGE WAS UTTERED SAVE THAT OF WAILING AND HISSING AND THAT SOMEHOW WAS INDISTINCT AS IF IT EXISTED IN FANCY AND NOT IN REALITY," No words were spoken, no language was uttered, save that of wailing and hissing, and that somehow
+ was indistinct, as if it existed in fancy and not in reality.
+",12.895,30.56094812399897,0.421943715478964,0.0
+51,base.en,I HEARD A NOISE BEHIND I TURNED AND SAW KAFFAR HIS BLACK EYES SHINING WHILE IN HIS HAND HE HELD A GLEAMING KNIFE HE LIFTED IT ABOVE HIS HEAD AS IF TO STRIKE BUT I HAD THE STRENGTH OF TEN MEN AND I HURLED HIM FROM ME," I heard a noise behind.
+ I turned and saw Caffer, his black eyes shining.
+ While in his hand he held a gleaming knife.
+ He lifted it above his head as if to strike, but I had the strength of ten men, and I hurled
+ him from me.
+",17.485,31.922886671000015,0.5477261558518155,0.02127659574468085
+52,base.en,ONWARD SAID A DISTANT VOICE," onward, set a distant voice.
+",3.305,29.143501872998968,0.11340435389001878,0.2
+53,base.en,NO SOUND BROKE THE STILLNESS OF THE NIGHT," No sound broke the stillness of the night.
+",3.295,28.89053528000113,0.11405119247758953,0.0
+54,base.en,THE STORY OF ITS EVIL INFLUENCE CAME BACK TO ME AND IN MY BEWILDERED CONDITION I WONDERED WHETHER THERE WAS NOT SOME TRUTH IN WHAT HAD BEEN SAID," The story of its evil influence came back to me, and in my bewildered condition I wondered
+ whether there was not some truth in what had been said.
+",9.56,30.43103875199995,0.31415293043099657,0.0
+55,base.en,WHAT WAS THAT," What was that?
+",1.815,28.860654083000554,0.06288838758748257,0.0
+56,base.en,WHAT THEN A HUMAN HAND LARGE AND SHAPELY APPEARED DISTINCTLY ON THE SURFACE OF THE POND," What then, a human hand large and shapely appeared distinctly on the surface of the pond?
+",6.8,29.081596721000096,0.23382485030781186,0.0
+57,base.en,NOTHING MORE NOT EVEN THE WRIST TO WHICH IT MIGHT BE ATTACHED," nothing more, not even the wrist to which it might be attached.
+",4.365,29.216177133999736,0.14940353010525528,0.0
+58,base.en,IT DID NOT BECKON OR INDEED MOVE AT ALL IT WAS AS STILL AS THE HAND OF DEATH," It did not beckon, or indeed move at all.
+ It was as still as the hand of death.
+",6.055,29.92114594099985,0.20236524402974337,0.0
+59,base.en,I AWOKE TO CONSCIOUSNESS FIGHTING AT FIRST IT SEEMED AS IF I WAS FIGHTING WITH A PHANTOM BUT GRADUALLY MY OPPONENT BECAME MORE REAL TO ME IT WAS KAFFAR," I awoke to consciousness, fighting. At first it seemed as if I was fighting with the phantom,
+ but gradually my opponent became more real to me. It was Caffer.
+",12.015,30.38771897299921,0.395389993262602,0.06896551724137931
+60,base.en,A SOUND OF VOICES A FLASH OF LIGHT," A sound of voices, a flash of light.
+",3.835,29.083305328998904,0.1318625911538373,0.0
+61,base.en,A FEELING OF FREEDOM AND I WAS AWAKE WHERE," a feeling of freedom and I was awake.
+ Where?
+",4.7,29.20718093600044,0.16091933043105963,0.0
+62,base.en,SAID ANOTHER VOICE WHICH I RECOGNIZED AS VOLTAIRE'S KAFFAR," Set another voice which I recognize as Voltaire's.
+ Caffer?
+",4.43,29.39685515600104,0.15069639172255692,0.3333333333333333
+63,base.en,I HAD SCARCELY KNOWN WHAT I HAD BEEN SAYING OR DOING UP TO THIS TIME BUT AS HE SPOKE I LOOKED AT MY HAND," I had scarcely known what I had been saying or doing up to this time, but as he spoke
+ I looked at my hand.
+",7.325,30.143865512000048,0.24300134954768732,0.0
+64,base.en,IN THE LIGHT OF THE MOON I SAW A KNIFE RED WITH BLOOD AND MY HAND TOO WAS ALSO DISCOLOURED," In the light of the moon, I saw a knife, red with blood, and my hand too was also discolored.
+",7.41,29.787232626000332,0.24876429754444682,0.05
+65,base.en,I DO NOT KNOW I AM DAZED BEWILDERED," I do not know, I am dazed, bewildered.
+",3.73,29.355251312999826,0.12706414808815444,0.0
+66,base.en,BUT THAT IS KAFFAR'S KNIFE," But that is Kaffir's knife.
+",2.16,29.18200977900051,0.0740182056122243,0.2
+67,base.en,I KNOW HE HAD IT THIS VERY EVENING," I know he had it this very evening.
+",2.34,29.22767376900083,0.08006110984042213,0.0
+68,base.en,I REMEMBER SAYING HAVE WE BEEN TOGETHER," I remembered saying, ""Have we been together?""
+",2.93,28.909239770999193,0.10135167936651453,0.14285714285714285
+69,base.en,VOLTAIRE PICKED UP SOMETHING FROM THE GROUND AND LOOKED AT IT," Voltaire picked up something from the ground and looked at it.
+",3.38,29.276184177000687,0.1154522044117799,0.0
+70,base.en,I SAY YOU DO KNOW WHAT THIS MEANS AND YOU MUST TELL US," I say, you do know what this means, and you must tell us.
+",5.0,29.467711841998607,0.16967723950910205,0.0
+71,base.en,A TERRIBLE THOUGHT FLASHED INTO MY MIND," A terrible thought flashed into my mind.
+",3.225,29.187083643999358,0.11049408153743498,0.0
+72,base.en,I HAD AGAIN BEEN ACTING UNDER THE INFLUENCE OF THIS MAN'S POWER," I had again been acting under the influence of this man's power.
+",4.34,29.4317835310012,0.14745963306738016,0.0
+73,base.en,PERCHANCE TOO KAFFAR'S DEATH MIGHT SERVE HIM IN GOOD STEAD," per chance to, Kaffir's death might serve him in good stead.
+",4.885,29.347650443998646,0.16645284805070118,0.4
+74,base.en,MY TONGUE REFUSED TO ARTICULATE MY POWER OF SPEECH LEFT ME," My tongue refused to articulate.
+ My power of speech left me.
+",5.05,29.2846008359993,0.172445580811608,0.0
+75,base.en,MY POSITION WAS TOO TERRIBLE," My position was too terrible.
+",2.53,29.011687125001117,0.08720623482181933,0.0
+76,base.en,MY OVERWROUGHT NERVES YIELDED AT LAST," My overwrought nerves yielded at last.
+",3.075,28.89645809599824,0.10641442594052193,0.0
+77,base.en,FOR SOME TIME AFTER THAT I REMEMBERED NOTHING DISTINCTLY," For some time after that, I remembered nothing distinctly.
+",3.85,28.92295868600013,0.13311224628839768,0.0
+78,base.en,NOTWITHSTANDING THE HIGH RESOLUTION OF HAWKEYE HE FULLY COMPREHENDED ALL THE DIFFICULTIES AND DANGER HE WAS ABOUT TO INCUR," Notwithstanding the high resolution of Hawkeye, he fully comprehended all the difficulties
+ in danger he was about to incur.
+",7.835,29.84248013800061,0.2625452028038086,0.05263157894736842
+79,base.en,IN HIS RETURN TO THE CAMP HIS ACUTE AND PRACTISED INTELLECTS WERE INTENTLY ENGAGED IN DEVISING MEANS TO COUNTERACT A WATCHFULNESS AND SUSPICION ON THE PART OF HIS ENEMIES THAT HE KNEW WERE IN NO DEGREE INFERIOR TO HIS OWN," In his return to the camp, his acute and practiced intellects were intently engaged in devising
+ means to counteract a watchfulness and suspicion on the part of his enemies that he knew were
+ in no degree inferior to his own.
+",14.055,31.296377132999623,0.449093514571055,0.025
+80,base.en,IN OTHER WORDS WHILE HE HAD IMPLICIT FAITH IN THE ABILITY OF BALAAM'S ASS TO SPEAK HE WAS SOMEWHAT SKEPTICAL ON THE SUBJECT OF A BEAR'S SINGING AND YET HE HAD BEEN ASSURED OF THE LATTER ON THE TESTIMONY OF HIS OWN EXQUISITE ORGANS," In other words, while he had implicit faith in the ability of Balaam's ass to speak,
+ he was somewhat skeptical on the subject of a bear's singing, and yet he had been assured
+ of the latter on the testimony of his own exquisite organs.
+",13.585,31.538800164998975,0.4307392776176792,0.0
+81,base.en,THERE WAS SOMETHING IN HIS AIR AND MANNER THAT BETRAYED TO THE SCOUT THE UTTER CONFUSION OF THE STATE OF HIS MIND," There was something in his air and manner that betrayed to the scout the utter confusion of the state of his mind.
+",6.285,29.7488888150001,0.21126839523602486,0.0
+82,base.en,THE INGENIOUS HAWKEYE WHO RECALLED THE HASTY MANNER IN WHICH THE OTHER HAD ABANDONED HIS POST AT THE BEDSIDE OF THE SICK WOMAN WAS NOT WITHOUT HIS SUSPICIONS CONCERNING THE SUBJECT OF SO MUCH SOLEMN DELIBERATION," The ingenious Hawkeye, who recalled the hasty manner in which the other had abandoned his
+ post at the bedside of the sick woman, was not without his suspicions concerning the subject
+ of so much solemn deliberation.
+",12.26,31.06092855299903,0.39470809699332887,0.0
+83,base.en,THE BEAR SHOOK HIS SHAGGY SIDES AND THEN A WELL KNOWN VOICE REPLIED," The bear shook his shaggy sides and then a well-known voice replied,
+",4.4,29.522394404000806,0.14903940174323133,0.0
+84,base.en,CAN THESE THINGS BE RETURNED DAVID BREATHING MORE FREELY AS THE TRUTH BEGAN TO DAWN UPON HIM," ""Can these things be returned David, breathing more freely as the truth began to dawn upon him?""
+",5.655,29.754369248999865,0.19005612092382304,0.0
+85,base.en,COME COME RETURNED HAWKEYE UNCASING HIS HONEST COUNTENANCE THE BETTER TO ASSURE THE WAVERING CONFIDENCE OF HIS COMPANION YOU MAY SEE A SKIN WHICH IF IT BE NOT AS WHITE AS ONE OF THE GENTLE ONES HAS NO TINGE OF RED TO IT THAT THE WINDS OF THE HEAVEN AND THE SUN HAVE NOT BESTOWED NOW LET US TO BUSINESS," ""Come, come,"" returned Hawkeye, uncasing his honest countenance, the better to assure
+ the wavering confidence of his companion.
+ You may see a skin which, if it be not as white as one of the gentle ones, has no tinge
+ of red to it that the winds of the heaven and the sun have not bestowed.
+ Now let us to business.
+",18.525,32.8003232029987,0.5647810201548987,0.0
+86,base.en,THE YOUNG MAN IS IN BONDAGE AND MUCH I FEAR HIS DEATH IS DECREED," The young man is in bondage, and much I fear his death is decreed.
+",4.185,29.601592846998756,0.14137752727128358,0.0
+87,base.en,I GREATLY MOURN THAT ONE SO WELL DISPOSED SHOULD DIE IN HIS IGNORANCE AND I HAVE SOUGHT A GOODLY HYMN CAN YOU LEAD ME TO HIM," I greatly mourn that one so well disposed should die in his ignorance, and I have sought
+ a goodly hymn.
+ Can you lead me to him?""
+",7.705,30.45576746900042,0.25298984856784773,0.0
+88,base.en,THE TASK WILL NOT BE DIFFICULT RETURNED DAVID HESITATING THOUGH I GREATLY FEAR YOUR PRESENCE WOULD RATHER INCREASE THAN MITIGATE HIS UNHAPPY FORTUNES," ""The task will not be difficult,"" returned David hesitating.
+ ""Though I greatly fear your presence would rather increase than mitigate his unhappy fortunes.""
+",10.0,29.911176392000925,0.33432319307488945,0.0
+89,base.en,THE LODGE IN WHICH UNCAS WAS CONFINED WAS IN THE VERY CENTER OF THE VILLAGE AND IN A SITUATION PERHAPS MORE DIFFICULT THAN ANY OTHER TO APPROACH OR LEAVE WITHOUT OBSERVATION," The lodge in which Onkis was confined was in the very center of the village, and in a
+ situation perhaps more difficult than any other to approach or leave without observation.
+",9.76,30.48840606900012,0.3201216875002112,0.03225806451612903
+90,base.en,FOUR OR FIVE OF THE LATTER ONLY LINGERED ABOUT THE DOOR OF THE PRISON OF UNCAS WARY BUT CLOSE OBSERVERS OF THE MANNER OF THEIR CAPTIVE," Four or five of the latter only lingered about the door of the prison of Unkus, wary but close
+ observers of the manner of their captive.
+",7.59,30.264996810999946,0.2507847612672267,0.038461538461538464
+91,base.en,DELIVERED IN A STRONG TONE OF ASSENT ANNOUNCED THE GRATIFICATION THE SAVAGE WOULD RECEIVE IN WITNESSING SUCH AN EXHIBITION OF WEAKNESS IN AN ENEMY SO LONG HATED AND SO MUCH FEARED," delivered in a strong tone of ascent, announced the gratification the savage would receive
+ in witnessing such an exhibition of weakness in an enemy so long hated and so much feared.
+",10.755,30.525152575999527,0.35233239123778026,0.03225806451612903
+92,base.en,THEY DREW BACK A LITTLE FROM THE ENTRANCE AND MOTIONED TO THE SUPPOSED CONJURER TO ENTER," They drew back a little from the entrance and motion to the supposed conjurer to enter.
+",4.9,29.607811022999158,0.1654968682485075,0.0625
+93,base.en,BUT THE BEAR INSTEAD OF OBEYING MAINTAINED THE SEAT IT HAD TAKEN AND GROWLED," but the bear, instead of obeying, maintained with the seed it had taken and growled.
+",5.125,29.479976717999307,0.17384681300887453,0.14285714285714285
+94,base.en,THE CUNNING MAN IS AFRAID THAT HIS BREATH WILL BLOW UPON HIS BROTHERS AND TAKE AWAY THEIR COURAGE TOO CONTINUED DAVID IMPROVING THE HINT HE RECEIVED THEY MUST STAND FURTHER OFF," ""The cunning man is afraid that his breath will blow upon his brothers and take away
+ their courage, too,"" continued David, improving the hint he received.
+ ""They must stand further off.""
+",10.085,30.82732850299908,0.32714479293977317,0.0
+95,base.en,THEN AS IF SATISFIED OF THEIR SAFETY THE SCOUT LEFT HIS POSITION AND SLOWLY ENTERED THE PLACE," Then, as if satisfied of their safety, the scout left his position and slowly entered
+ the place.
+",5.655,29.896301159998984,0.1891538344404406,0.0
+96,base.en,IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY," It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers
+ of a fire which had been used for the purpose of cookery.
+",9.695,30.615953898999578,0.3166649659841825,0.034482758620689655
+97,base.en,UNCAS OCCUPIED A DISTANT CORNER IN A RECLINING ATTITUDE BEING RIGIDLY BOUND BOTH HANDS AND FEET BY STRONG AND PAINFUL WITHES," Onkus occupied a distant corner in a reclining attitude, being rigidly bound both hands and
+ feet by strong and painful widths.
+",8.23,30.237820962000114,0.2721756971291895,0.09523809523809523
+98,base.en,THE SCOUT WHO HAD LEFT DAVID AT THE DOOR TO ASCERTAIN THEY WERE NOT OBSERVED THOUGHT IT PRUDENT TO PRESERVE HIS DISGUISE UNTIL ASSURED OF THEIR PRIVACY," The scout, who had left David at the door to ascertain they were not observed,
+ thought it prudent to preserve his disguise until assured of their privacy.
+",8.895,30.231230556999435,0.2942321511930827,0.0
+99,base.en,WHAT SHALL WE DO WITH THE MINGOES AT THE DOOR THEY COUNT SIX AND THIS SINGER IS AS GOOD AS NOTHING," What shall we do with the Mingos at the door?
+ They count six, and this singer is as good as nothing.
+",5.335,30.03851510399909,0.17760531709138114,0.047619047619047616
+0,tiny.en,CONCORD RETURNED TO ITS PLACE AMIDST THE TENTS," Concord returned to its place amidst the tents.
+",3.505,12.224444819999917,0.2867205874466881,0.0
+1,tiny.en,THE ENGLISH FORWARDED TO THE FRENCH BASKETS OF FLOWERS OF WHICH THEY HAD MADE A PLENTIFUL PROVISION TO GREET THE ARRIVAL OF THE YOUNG PRINCESS THE FRENCH IN RETURN INVITED THE ENGLISH TO A SUPPER WHICH WAS TO BE GIVEN THE NEXT DAY," The English voted to the French baskets of flowers of which they had made a plentiful
+ provision to greet the arrival of the young princess.
+ The French in return invited the English to a supper, which was to be given the next
+ day.
+",14.225,13.93066239899781,1.021128758458992,0.023255813953488372
+2,tiny.en,CONGRATULATIONS WERE POURED IN UPON THE PRINCESS EVERYWHERE DURING HER JOURNEY," Congratulations, we're poured in upon the princess everywhere during her journey.
+",5.025,11.388109984996845,0.44124968995031993,0.09090909090909091
+3,tiny.en,FROM THE RESPECT PAID HER ON ALL SIDES SHE SEEMED LIKE A QUEEN AND FROM THE ADORATION WITH WHICH SHE WAS TREATED BY TWO OR THREE SHE APPEARED AN OBJECT OF WORSHIP THE QUEEN MOTHER GAVE THE FRENCH THE MOST AFFECTIONATE RECEPTION FRANCE WAS HER NATIVE COUNTRY AND SHE HAD SUFFERED TOO MUCH UNHAPPINESS IN ENGLAND FOR ENGLAND TO HAVE MADE HER FORGET FRANCE," From the respect paid her on all sides, she seemed like a queen, and from the adoration
+ with which she was treated by two or three, she appeared in an object of worship.
+ The queen mother gave the French the most affectionate reception.
+ France was her native country, and she had suffered too much unhappiness in England for
+ England to have made her forget France.
+",23.315,12.048771296002087,1.9350520835046616,0.015625
+4,tiny.en,SHE TAUGHT HER DAUGHTER THEN BY HER OWN AFFECTION FOR IT THAT LOVE FOR A COUNTRY WHERE THEY HAD BOTH BEEN HOSPITABLY RECEIVED AND WHERE A BRILLIANT FUTURE OPENED BEFORE THEM," She taught her daughter, then, by her own affection for it, that love for a country where
+ they had both been hospitably received and where a brilliant future opened for them.
+",11.065,10.81688509900414,1.02293774027596,0.03225806451612903
+5,tiny.en,THE COUNT HAD THROWN HIMSELF BACK ON HIS SEAT LEANING HIS SHOULDERS AGAINST THE PARTITION OF THE TENT AND REMAINED THUS HIS FACE BURIED IN HIS HANDS WITH HEAVING CHEST AND RESTLESS LIMBS," The Count had thrown himself back on his seat,
+ leaning his shoulders against the partition of the tent and remained thus.
+ His face buried in his hands with heaving chest and restless limbs.
+",13.16,10.824403311999049,1.215771402882956,0.0
+6,tiny.en,THIS HAS INDEED BEEN A HARASSING DAY CONTINUED THE YOUNG MAN HIS EYES FIXED UPON HIS FRIEND," This has indeed been a harassing day continued the young man his eyes fixed upon his friend
+",5.85,10.181584208003187,0.5745667747266319,0.0
+7,tiny.en,YOU WILL BE FRANK WITH ME I ALWAYS AM," You will be frank with me. I always am
+",3.315,9.944476837001275,0.33335086946611336,0.0
+8,tiny.en,CAN YOU IMAGINE WHY BUCKINGHAM HAS BEEN SO VIOLENT I SUSPECT," Can you imagine why Buckingham has been so violent? I suspect.
+",4.785,10.039515386997664,0.47661663093789663,0.0
+9,tiny.en,IT IS YOU WHO ARE MISTAKEN RAOUL I HAVE READ HIS DISTRESS IN HIS EYES IN HIS EVERY GESTURE AND ACTION THE WHOLE DAY," It is you who are mistaken, Raul. I have read his distress in his eyes, in his every gesture and action the whole day.
+",7.28,10.474141676997533,0.6950450189143184,0.041666666666666664
+10,tiny.en,I CAN PERCEIVE LOVE CLEARLY ENOUGH," I can perceive love clearly enough.
+",3.035,9.819914441999572,0.30906582923160386,0.0
+11,tiny.en,I AM CONVINCED OF WHAT I SAY SAID THE COUNT," ""I am convinced of what I say,"" said the Count.
+",3.195,10.031192805996398,0.3185064888883512,0.0
+12,tiny.en,IT IS ANNOYANCE THEN," It is annoyance then.
+",1.94,9.83524935800233,0.19724970149552365,0.0
+13,tiny.en,IN THOSE VERY TERMS I EVEN ADDED MORE," In those very terms, I even added more.
+",2.94,9.944850407999184,0.2956303895365986,0.0
+14,tiny.en,BUT CONTINUED RAOUL NOT INTERRUPTED BY THIS MOVEMENT OF HIS FRIEND HEAVEN BE PRAISED THE FRENCH WHO ARE PRONOUNCED TO BE THOUGHTLESS AND INDISCREET RECKLESS EVEN ARE CAPABLE OF BRINGING A CALM AND SOUND JUDGMENT TO BEAR ON MATTERS OF SUCH HIGH IMPORTANCE," But, continued Raul, not interrupted by this movement of his friend, heaven be praised,
+ the French, who are pronounced to be thoughtless and in discreet, reckless even, are capable
+ of bringing a calm and sound judgment to bear on matters of such high importance.
+",16.84,11.276101572999323,1.493423936542347,0.06976744186046512
+15,tiny.en,THUS IT IS THAT THE HONOR OF THREE IS SAVED OUR COUNTRY'S OUR MASTER'S AND OUR OWN," Thus, it is that the honor of three is saved, our country, our masters, and our own.
+",6.38,10.273645206005313,0.6210064560406137,0.11764705882352941
+16,tiny.en,YES I NEED REPOSE MANY THINGS HAVE AGITATED ME TO DAY BOTH IN MIND AND BODY WHEN YOU RETURN TO MORROW I SHALL NO LONGER BE THE SAME MAN," Yes, I need repose. Many things have agitated me today both in mind and body.
+ When you return tomorrow, I shall no longer be the same man.
+",10.015,10.608206074000918,0.9440804533902509,0.13793103448275862
+17,tiny.en,BUT IN THIS FRIENDLY PRESSURE RAOUL COULD DETECT THE NERVOUS AGITATION OF A GREAT INTERNAL CONFLICT," But in this friendly pressure, Raoul could detect the nervous agitation of a great internal conflict.
+",6.16,10.149516252000467,0.6069254777325831,0.0
+18,tiny.en,THE NIGHT WAS CLEAR STARLIT AND SPLENDID THE TEMPEST HAD PASSED AWAY AND THE SWEET INFLUENCES OF THE EVENING HAD RESTORED LIFE PEACE AND SECURITY EVERYWHERE," The night was clear, starlet and splendid.
+ The tempest had passed away and the sweet influences of the evening had restored life,
+ peace and security everywhere.
+",10.81,10.64200704399991,1.015785833941428,0.038461538461538464
+19,tiny.en,UPON THE LARGE SQUARE IN FRONT OF THE HOTEL THE SHADOWS OF THE TENTS INTERSECTED BY THE GOLDEN MOONBEAMS FORMED AS IT WERE A HUGE MOSAIC OF JET AND YELLOW FLAGSTONES," Upon the large square in front of the hotel, the shadows of the tents intersected by the golden moon beams formed as it were a huge mosaic of jet and yellow flagstones.
+",11.6450625,10.713953433994902,1.08690620803435,0.06451612903225806
+20,tiny.en,BRAGELONNE WATCHED FOR SOME TIME THE CONDUCT OF THE TWO LOVERS LISTENED TO THE LOUD AND UNCIVIL SLUMBERS OF MANICAMP WHO SNORED AS IMPERIOUSLY AS THOUGH HE WAS WEARING HIS BLUE AND GOLD INSTEAD OF HIS VIOLET SUIT," Braggleon watched for some time the conduct of the two lovers listen to the loud and
+ unsilvel slumbers of Manicamp who snored as impiriously as though he was wearing his
+ blue and gold instead of his violet suit.
+",14.4,11.20505088000209,1.2851347266704525,0.10526315789473684
+21,tiny.en,GOLIATH MAKES ANOTHER DISCOVERY," Goliath makes another discovery.
+",3.025,9.83866972800024,0.307460264815175,0.0
+22,tiny.en,THEY WERE CERTAINLY NO NEARER THE SOLUTION OF THEIR PROBLEM," There were certainly no near the solution of their problem.
+",3.2,9.936449642998923,0.32204661775291876,0.2
+23,tiny.en,THE POOR LITTLE THINGS CRIED CYNTHIA THINK OF THEM HAVING BEEN TURNED TO THE WALL ALL THESE YEARS," The poor little things, Kritesintia, think of them having been turned to the wall all these years.
+",5.56,10.330520983996394,0.5382109971620325,0.1111111111111111
+24,tiny.en,NOW WHAT WAS THE SENSE OF IT TWO INNOCENT BABIES LIKE THAT," Now what is the sense of it? Two innocent babies like that.
+",3.385,10.085765003001143,0.3356215417464864,0.08333333333333333
+25,tiny.en,BUT JOYCE HAD NOT BEEN LISTENING ALL AT ONCE SHE PUT DOWN HER CANDLE ON THE TABLE AND FACED HER COMPANION," But Joyce had not been listening.
+ All at once she put down her candle on the table and faced her companion.
+",6.15,10.335580985003617,0.5950318621588208,0.0
+26,tiny.en,THE TWIN BROTHER DID SOMETHING SHE DIDN'T LIKE AND SHE TURNED HIS PICTURE TO THE WALL," The twin brother did something she didn't like and she turned his picture to the wall.
+",5.035,10.193941741003073,0.4939208137464362,0.0
+27,tiny.en,HERS HAPPENED TO BE IN THE SAME FRAME TOO BUT SHE EVIDENTLY DIDN'T CARE ABOUT THAT," hers happened to be on the same frame too, but she evidently didn't care about it.
+",4.455,10.192528945997765,0.4370848514243677,0.125
+28,tiny.en,NOW WHAT HAVE YOU TO SAY CYNTHIA SPRAGUE," Now what have you to say, Cynthia Sprague?
+",2.82,10.008715818999917,0.28175442794036465,0.0
+29,tiny.en,I THOUGHT WE WERE STUMPED AGAIN WHEN I FIRST SAW THAT PICTURE BUT IT'S BEEN OF SOME USE AFTER ALL," I thought we were stumped again when I first saw that picture, but it's been of some news after all.
+",5.185,10.34239945099398,0.501334339731162,0.05
+30,tiny.en,DO YOU SUPPOSE THE MINIATURE WAS A COPY OF THE SAME THING," Do you suppose the miniature was a copy of the same thing?
+",3.405,9.996310177004489,0.34062568484848155,0.0
+31,tiny.en,WHAT IN THE WORLD IS THAT QUERIED JOYCE," What in the world is it?
+ Query choice.
+",2.69,9.942888464000134,0.27054512476325043,0.375
+32,tiny.en,THEY WORRY ME TERRIBLY AND BESIDES I'D LIKE TO SEE WHAT THIS LOVELY FURNITURE LOOKS LIKE WITHOUT SUCH QUANTITIES OF DUST ALL OVER IT GOOD SCHEME CYN," They worry me terribly, ambisides. I'd like to see what this lovely furniture looks like without such quantities of dust all over it.
+ Good, schemesin!
+",9.24,10.62304262300313,0.8698072979573395,0.14814814814814814
+33,tiny.en,WE'LL COME IN HERE THIS AFTERNOON WITH OLD CLOTHES ON AND HAVE A REGULAR HOUSE CLEANING," We'll come in here this afternoon with old clothes on and have a regular house cleaning.
+",4.655,10.120203576007043,0.4599709842829708,0.0
+34,tiny.en,IT CAN'T HURT ANYTHING I'M SURE FOR WE WON'T DISTURB THINGS AT ALL," They can't hurt anything. I'm sure for we won't disturb things at all.
+",4.305,10.139940045002731,0.4245587233152955,0.07692307692307693
+35,tiny.en,THIS THOUGHT HOWEVER DID NOT ENTER THE HEADS OF THE ENTHUSIASTIC PAIR," This thought, however, did not enter the heads of the enthusiastic pair.
+",4.72,10.05551561700122,0.4693941295282489,0.0
+36,tiny.en,SMUGGLING THE HOUSE CLEANING PARAPHERNALIA INTO THE CELLAR WINDOW UNOBSERVED THAT AFTERNOON PROVED NO EASY TASK FOR CYNTHIA HAD ADDED A WHISK BROOM AND DUST PAN TO THE OUTFIT," Smuggling the house cleaning paraphernalia into the cellar window unobserved that afternoon proved no easy task
+ for Cynthia had added a whisk broom and dustpan to the outfit.
+",12.405,10.725622177000332,1.156576261524564,0.06896551724137931
+37,tiny.en,THE LURE PROVED TOO MUCH FOR HIM AND HE CAME SPORTING AFTER IT AS FRISKILY AS A YOUNG KITTEN MUCH TO CYNTHIA'S DELIGHT WHEN SHE CAUGHT SIGHT OF HIM," The lure proved too much for him and he came sporting after it as fiscally as a young kitten
+ much to Cynthia's delight when she caught sight of him.
+",9.205,10.64720144400053,0.8645464301970938,0.034482758620689655
+38,tiny.en,OH LET HIM COME ALONG SHE URGED I DO LOVE TO SEE HIM ABOUT THAT OLD HOUSE," Oh, let him come along, she urged. I do love to see him about that old house.
+",5.41,10.246275933001016,0.5279967117199696,0.0
+39,tiny.en,HE MAKES IT SORT OF COZIER," He makes it sort of cozier.
+",2.14,9.873120985997957,0.21675010394736824,0.0
+40,tiny.en,NOW LET'S DUST THE FURNITURE AND PICTURES," Now let's dust the furniture and pictures.
+",2.575,9.936359218001598,0.2591492460674026,0.0
+41,tiny.en,YET LITTLE AS IT WAS IT HAD ALREADY MADE A VAST DIFFERENCE IN THE ASPECT OF THE ROOM," Yet, little as it was, it had already made a vast difference in the aspect of the room.
+",6.315,10.166084092998062,0.6211831362234634,0.0
+42,tiny.en,SURFACE DUST AT LEAST HAD BEEN REMOVED AND THE FINE OLD FURNITURE GAVE A HINT OF ITS REAL ELEGANCE AND POLISH," Surface dust at least had been removed and the fine old furniture gave a hint of its real elegance and polish.
+",7.355,10.269175683999492,0.7162210703493856,0.0
+43,tiny.en,THEN SHE SUDDENLY REMARKED," Then she suddenly remarked.
+",1.895,9.754778251000971,0.19426377014829094,0.0
+44,tiny.en,AND MY POCKET MONEY IS GETTING LOW AGAIN AND YOU HAVEN'T ANY LEFT AS USUAL," and my pocket money is getting low again and you have it any left as usual.
+",4.85,10.116674650002096,0.479406540962449,0.13333333333333333
+45,tiny.en,THEY SAY ILLUMINATION BY CANDLE LIGHT IS THE PRETTIEST IN THE WORLD," They say illumination by candlelight is the prettiest in the world.
+",4.05,10.022272385001997,0.40409997298224426,0.16666666666666666
+46,tiny.en,WHY IT'S GOLIATH AS USUAL THEY BOTH CRIED PEERING IN," Why it's Goliath as usual they both cried peering in
+",4.12,10.020910700004606,0.4111402769009913,0.0
+47,tiny.en,ISN'T HE THE GREATEST FOR GETTING INTO ODD CORNERS," Isn't he the greatest for getting into odd corners?
+",3.085,9.92624871800217,0.31079213181562404,0.0
+48,tiny.en,FORGETTING ALL THEIR WEARINESS THEY SEIZED THEIR CANDLES AND SCURRIED THROUGH THE HOUSE FINDING AN OCCASIONAL PAPER TUCKED AWAY IN SOME ODD CORNER," For getting all their weariness they seize their candles and scurry through the house,
+ finding on occasional paper to tuck the way in some odd corner.
+",8.27,10.501639534995775,0.7874960831059725,0.391304347826087
+49,tiny.en,WELL I'M CONVINCED THAT THE BOARDED UP HOUSE MYSTERY HAPPENED NOT EARLIER THAN APRIL SIXTEENTH EIGHTEEN SIXTY ONE AND PROBABLY NOT MUCH LATER," Well, I'm convinced that the boarded-up house mystery happened not earlier than April 16, 1861,
+ and probably not much later.
+",9.875,10.397395309002604,0.9497570984388477,0.17391304347826086
+50,tiny.en,NO WORDS WERE SPOKEN NO LANGUAGE WAS UTTERED SAVE THAT OF WAILING AND HISSING AND THAT SOMEHOW WAS INDISTINCT AS IF IT EXISTED IN FANCY AND NOT IN REALITY," No words were spoken, no language was uttered, saved out of wailing and hissing, and that
+ somehow was indistinct, as if it existed in fancy and not in reality.
+",12.895,10.768248358996061,1.1975020978437219,0.06896551724137931
+51,tiny.en,I HEARD A NOISE BEHIND I TURNED AND SAW KAFFAR HIS BLACK EYES SHINING WHILE IN HIS HAND HE HELD A GLEAMING KNIFE HE LIFTED IT ABOVE HIS HEAD AS IF TO STRIKE BUT I HAD THE STRENGTH OF TEN MEN AND I HURLED HIM FROM ME," I heard a noise behind. I turned and saw Caffar, his black eyes shining, while in his hand
+ he held a gleaming knife. He lifted it above his head as if to strike, but I had the strength
+ of ten men and I hurled him from me.
+",17.485,11.347018748994742,1.5409333840705106,0.02127659574468085
+52,tiny.en,ONWARD SAID A DISTANT VOICE," Onward, set a distant voice.
+",3.305,9.878117904998362,0.33457790560767237,0.2
+53,tiny.en,NO SOUND BROKE THE STILLNESS OF THE NIGHT," No sound broke the stillness of the night.
+",3.295,9.965032087995496,0.33065623581577464,0.0
+54,tiny.en,THE STORY OF ITS EVIL INFLUENCE CAME BACK TO ME AND IN MY BEWILDERED CONDITION I WONDERED WHETHER THERE WAS NOT SOME TRUTH IN WHAT HAD BEEN SAID," The story of its evil influence came back to me, and in my bewildered condition, I wondered
+ whether there was not some truth in what had been said.
+",9.56,10.627183982003771,0.8995797961331096,0.0
+55,tiny.en,WHAT WAS THAT," What was that?
+",1.815,9.731023160005861,0.18651687188039812,0.0
+56,tiny.en,WHAT THEN A HUMAN HAND LARGE AND SHAPELY APPEARED DISTINCTLY ON THE SURFACE OF THE POND," What then, a human hand large and shapely appeared distinctly on the surface of the pond.
+",6.8,10.143435250000039,0.6703843256652103,0.0
+57,tiny.en,NOTHING MORE NOT EVEN THE WRIST TO WHICH IT MIGHT BE ATTACHED," Nothing more, not even the risk to which it might be attached.
+",4.365,10.053774784995767,0.4341652855118972,0.08333333333333333
+58,tiny.en,IT DID NOT BECKON OR INDEED MOVE AT ALL IT WAS AS STILL AS THE HAND OF DEATH," It did not beckon or indeed move at all.
+ It was as still as the hand of death.
+",6.055,10.270096669002669,0.5895757552385339,0.0
+59,tiny.en,I AWOKE TO CONSCIOUSNESS FIGHTING AT FIRST IT SEEMED AS IF I WAS FIGHTING WITH A PHANTOM BUT GRADUALLY MY OPPONENT BECAME MORE REAL TO ME IT WAS KAFFAR," I awoke to consciousness fighting, at first it seemed as if I was fighting with the phantom
+ but gradually my opponent became more real to me.
+ It was Caffa.
+",12.015,10.76595314199949,1.1160182328053987,0.06896551724137931
+60,tiny.en,A SOUND OF VOICES A FLASH OF LIGHT," A sound of voices, a flash of light.
+",3.835,9.942442773994117,0.38572009788489725,0.0
+61,tiny.en,A FEELING OF FREEDOM AND I WAS AWAKE WHERE," I'm feeling a freedom and I was awake.
+ Where?
+",4.7,10.057679489000293,0.4673046108836749,0.2222222222222222
+62,tiny.en,SAID ANOTHER VOICE WHICH I RECOGNIZED AS VOLTAIRE'S KAFFAR," Said another voice which I recognize as vultures.
+ Caffar?
+",4.43,10.103860883995367,0.43844625840179285,0.3333333333333333
+63,tiny.en,I HAD SCARCELY KNOWN WHAT I HAD BEEN SAYING OR DOING UP TO THIS TIME BUT AS HE SPOKE I LOOKED AT MY HAND," I had scarcely known what I had been saying or doing up to this time, but as he spoke,
+ I looked at my hand.
+",7.325,10.426671365996299,0.7025252588173498,0.0
+64,tiny.en,IN THE LIGHT OF THE MOON I SAW A KNIFE RED WITH BLOOD AND MY HAND TOO WAS ALSO DISCOLOURED," In the light of the moon, I saw a knife, red with blood, and my hand too was also discolored.
+",7.41,10.329224082997825,0.7173820550758556,0.05
+65,tiny.en,I DO NOT KNOW I AM DAZED BEWILDERED," I do not know. I am dazed. Be willedard.
+",3.73,10.122561463002057,0.36848380853335816,0.25
+66,tiny.en,BUT THAT IS KAFFAR'S KNIFE," But that is Caffers Knife.
+",2.16,9.837952921996475,0.21955787114720796,0.2
+67,tiny.en,I KNOW HE HAD IT THIS VERY EVENING," I know he had it this very evening.
+",2.34,9.863013990005129,0.2372499929911164,0.0
+68,tiny.en,I REMEMBER SAYING HAVE WE BEEN TOGETHER," I remember saying, ""Have we been together?""
+",2.93,9.894834302001982,0.2961141046502603,0.0
+69,tiny.en,VOLTAIRE PICKED UP SOMETHING FROM THE GROUND AND LOOKED AT IT," wheelchair picked up something from the ground and looked at it.
+",3.38,10.008699018006155,0.3377062287435369,0.09090909090909091
+70,tiny.en,I SAY YOU DO KNOW WHAT THIS MEANS AND YOU MUST TELL US," I say, you do know what this means, and you must tell us.
+",5.0,10.091191467996396,0.4954816302769795,0.0
+71,tiny.en,A TERRIBLE THOUGHT FLASHED INTO MY MIND," A terrible thought flashed into my mind.
+",3.225,9.837519833999977,0.32782653091624836,0.0
+72,tiny.en,I HAD AGAIN BEEN ACTING UNDER THE INFLUENCE OF THIS MAN'S POWER," I had again been acting under the influence of this man's power.
+",4.34,10.033847449994937,0.4325359760180717,0.0
+73,tiny.en,PERCHANCE TOO KAFFAR'S DEATH MIGHT SERVE HIM IN GOOD STEAD," per chance to, Caffar's death might serve him in good stead.
+",4.885,10.166473008001049,0.48050095604989934,0.4
+74,tiny.en,MY TONGUE REFUSED TO ARTICULATE MY POWER OF SPEECH LEFT ME," My tongue refused to articulate, my power of speech left me.
+",5.05,9.989607572999375,0.5055253635437592,0.0
+75,tiny.en,MY POSITION WAS TOO TERRIBLE," My position was too terrible.
+",2.53,9.848726046999218,0.25688601631587255,0.0
+76,tiny.en,MY OVERWROUGHT NERVES YIELDED AT LAST," My overwrought nerves yielded at last.
+",3.075,9.837884468994162,0.3125671997563509,0.0
+77,tiny.en,FOR SOME TIME AFTER THAT I REMEMBERED NOTHING DISTINCTLY," For some time after that, I remembered nothing distinctly.
+",3.85,9.922363671998028,0.38801238568438207,0.0
+78,tiny.en,NOTWITHSTANDING THE HIGH RESOLUTION OF HAWKEYE HE FULLY COMPREHENDED ALL THE DIFFICULTIES AND DANGER HE WAS ABOUT TO INCUR," Notwithstanding the high resolution of Hawkeye, he fully comprehended all the difficulties and danger he was about to incur.
+",7.835,10.28748795499996,0.7616047799299737,0.0
+79,tiny.en,IN HIS RETURN TO THE CAMP HIS ACUTE AND PRACTISED INTELLECTS WERE INTENTLY ENGAGED IN DEVISING MEANS TO COUNTERACT A WATCHFULNESS AND SUSPICION ON THE PART OF HIS ENEMIES THAT HE KNEW WERE IN NO DEGREE INFERIOR TO HIS OWN," In his return to the camp, his acute and practiced intellects were intentionally engaged
+ in devising means to counteract a watchfulness and suspicion on the part of his enemies
+ that he knew were in no degree inferior to his own.
+",14.055,10.995873052997922,1.2782068265300712,0.05
+80,tiny.en,IN OTHER WORDS WHILE HE HAD IMPLICIT FAITH IN THE ABILITY OF BALAAM'S ASS TO SPEAK HE WAS SOMEWHAT SKEPTICAL ON THE SUBJECT OF A BEAR'S SINGING AND YET HE HAD BEEN ASSURED OF THE LATTER ON THE TESTIMONY OF HIS OWN EXQUISITE ORGANS," In other words, while he had implicit faith in the ability of Balaam's asked to speak,
+ he was somewhat skeptical on the subject of a bear's singing, and yet he had been assured
+ of the latter on the testimony of his own exquisite organs.
+",13.585,11.234072437997384,1.2092676164389857,0.022727272727272728
+81,tiny.en,THERE WAS SOMETHING IN HIS AIR AND MANNER THAT BETRAYED TO THE SCOUT THE UTTER CONFUSION OF THE STATE OF HIS MIND," There was something in his air and a manner that betrayed to the scout the utter confusion of the state of his mind.
+",6.285,10.328146904997993,0.6085312358365628,0.045454545454545456
+82,tiny.en,THE INGENIOUS HAWKEYE WHO RECALLED THE HASTY MANNER IN WHICH THE OTHER HAD ABANDONED HIS POST AT THE BEDSIDE OF THE SICK WOMAN WAS NOT WITHOUT HIS SUSPICIONS CONCERNING THE SUBJECT OF SO MUCH SOLEMN DELIBERATION," The ingenious Hawkeye, who recalled the hasty manner in which the other had abandoned
+ his post at the bedside of the sick woman, was not without his suspicions concerning the
+ subject of so much solemn deliberation.
+",12.26,10.914751370000886,1.1232505060716746,0.0
+83,tiny.en,THE BEAR SHOOK HIS SHAGGY SIDES AND THEN A WELL KNOWN VOICE REPLIED," The bear shook his shaggy sides and then a well-known voice replied.
+",4.4,10.13556627700018,0.43411486637747754,0.0
+84,tiny.en,CAN THESE THINGS BE RETURNED DAVID BREATHING MORE FREELY AS THE TRUTH BEGAN TO DAWN UPON HIM," Can these things be, return David, breathing more freely as the truth began to dawn upon him?
+",5.655,10.203914253004768,0.5541990906415899,0.058823529411764705
+85,tiny.en,COME COME RETURNED HAWKEYE UNCASING HIS HONEST COUNTENANCE THE BETTER TO ASSURE THE WAVERING CONFIDENCE OF HIS COMPANION YOU MAY SEE A SKIN WHICH IF IT BE NOT AS WHITE AS ONE OF THE GENTLE ONES HAS NO TINGE OF RED TO IT THAT THE WINDS OF THE HEAVEN AND THE SUN HAVE NOT BESTOWED NOW LET US TO BUSINESS," ""Come, come,"" returned Hawkeye, encasing his honest countenance, the better to assure the
+ wavering confidence of his companion.
+ You may see a skin which, if it be not as white as one of the gentle ones, has no tinge
+ of red to it that the winds of the heaven and the sun have not bestowed.
+ Now, let us to business.
+",18.525,12.067010610997386,1.5351772362839444,0.016666666666666666
+86,tiny.en,THE YOUNG MAN IS IN BONDAGE AND MUCH I FEAR HIS DEATH IS DECREED," The young man is in bondage, and much I fear his death is decreed.
+",4.185,10.07975698899827,0.41518858089215765,0.0
+87,tiny.en,I GREATLY MOURN THAT ONE SO WELL DISPOSED SHOULD DIE IN HIS IGNORANCE AND I HAVE SOUGHT A GOODLY HYMN CAN YOU LEAD ME TO HIM," I greatly mourn that one so well disposed should die in his ignorance, and I have sought
+ a goodly him.
+ Can you lead me to him?
+",7.705,10.607292519998737,0.726387057345046,0.038461538461538464
+88,tiny.en,THE TASK WILL NOT BE DIFFICULT RETURNED DAVID HESITATING THOUGH I GREATLY FEAR YOUR PRESENCE WOULD RATHER INCREASE THAN MITIGATE HIS UNHAPPY FORTUNES," The task will not be difficult, return David hesitating.
+ Though I greatly fear your presence would rather increase than mitigate his unhappy fortunes.
+",10.0,10.411129592001089,0.9605105681983863,0.043478260869565216
+89,tiny.en,THE LODGE IN WHICH UNCAS WAS CONFINED WAS IN THE VERY CENTER OF THE VILLAGE AND IN A SITUATION PERHAPS MORE DIFFICULT THAN ANY OTHER TO APPROACH OR LEAVE WITHOUT OBSERVATION," The lodge in which Oncus was confined was in the very center of the village, and in a situation perhaps more difficult than any other to approach or leave without observation.
+",9.76,10.61944578600378,0.9190686780343553,0.03225806451612903
+90,tiny.en,FOUR OR FIVE OF THE LATTER ONLY LINGERED ABOUT THE DOOR OF THE PRISON OF UNCAS WARY BUT CLOSE OBSERVERS OF THE MANNER OF THEIR CAPTIVE," Four or five of the latter only lingered about the door of the prison of uncles, wary, but close observers of the manner of their captive.
+",7.59,10.609611881998717,0.7153890344356442,0.038461538461538464
+91,tiny.en,DELIVERED IN A STRONG TONE OF ASSENT ANNOUNCED THE GRATIFICATION THE SAVAGE WOULD RECEIVE IN WITNESSING SUCH AN EXHIBITION OF WEAKNESS IN AN ENEMY SO LONG HATED AND SO MUCH FEARED," delivered in a strong tone of ascent,
+ announced the gratification the savage would receive in witnessing such an exhibition of weakness
+ and an enemy so long hated and so much feared.
+",10.755,10.711796534000314,1.0040332605144762,0.06451612903225806
+92,tiny.en,THEY DREW BACK A LITTLE FROM THE ENTRANCE AND MOTIONED TO THE SUPPOSED CONJURER TO ENTER," They drew back a little from the entrance and motion to the supposed conjurer to enter.
+",4.9,10.190151340000739,0.48085645016530687,0.0625
+93,tiny.en,BUT THE BEAR INSTEAD OF OBEYING MAINTAINED THE SEAT IT HAD TAKEN AND GROWLED," But the bear, instead of obeying, maintained with the seed it had taken and growled.
+",5.125,10.186316523999267,0.5031259325120466,0.14285714285714285
+94,tiny.en,THE CUNNING MAN IS AFRAID THAT HIS BREATH WILL BLOW UPON HIS BROTHERS AND TAKE AWAY THEIR COURAGE TOO CONTINUED DAVID IMPROVING THE HINT HE RECEIVED THEY MUST STAND FURTHER OFF," The cunning man is afraid that his breath will blow upon his brothers and take away their
+ courage too, continued David, improving the hint he received.
+ They must stand further off.
+",10.085,10.724412447998475,0.9403778574258574,0.0
+95,tiny.en,THEN AS IF SATISFIED OF THEIR SAFETY THE SCOUT LEFT HIS POSITION AND SLOWLY ENTERED THE PLACE," Then, as if satisfied of their safety, the Scout left his position and slowly entered the place.
+",5.655,10.1910107290023,0.5549007993786721,0.0
+96,tiny.en,IT WAS SILENT AND GLOOMY BEING TENANTED SOLELY BY THE CAPTIVE AND LIGHTED BY THE DYING EMBERS OF A FIRE WHICH HAD BEEN USED FOR THE PURPOSED OF COOKERY," It was silent and gloomy, being tenanted solely by the captive and lighted by the dying
+ embers of a fire which had been used for the purpose of cookery.
+",9.695,10.6789657670015,0.9078594511425442,0.034482758620689655
+97,tiny.en,UNCAS OCCUPIED A DISTANT CORNER IN A RECLINING ATTITUDE BEING RIGIDLY BOUND BOTH HANDS AND FEET BY STRONG AND PAINFUL WITHES," Ancus occupied a distant corner in a reclining attitude, being rigidly bound both hands
+ and feet by strong and painful widths.
+",8.23,10.467352145002224,0.7862542394668095,0.09523809523809523
+98,tiny.en,THE SCOUT WHO HAD LEFT DAVID AT THE DOOR TO ASCERTAIN THEY WERE NOT OBSERVED THOUGHT IT PRUDENT TO PRESERVE HIS DISGUISE UNTIL ASSURED OF THEIR PRIVACY," The Scout, who had left David at the door to ascertain they were not observed, thought
+ it prudent to preserve his disguise until assured of their privacy.
+",8.895,10.525982641003793,0.8450517451311076,0.0
+99,tiny.en,WHAT SHALL WE DO WITH THE MINGOES AT THE DOOR THEY COUNT SIX AND THIS SINGER IS AS GOOD AS NOTHING," What shall we do with the Mingos at the door?
+ They count 6, and this singer is as good as nothing.
+",5.335,10.847113247997186,0.49183592703662943,0.09523809523809523

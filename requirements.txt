@@ -1,0 +1,9 @@
+openwakeword
+numpy==1.26.4
+pyaudio
+datacollective
+datasets==3.6.0
+datasets[audio]
+jiwer
+pandas
+matplotlib
