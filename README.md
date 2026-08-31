@@ -13,7 +13,7 @@ The main repository of this project contains the evaluation scripts. You also ne
 
 ```
 # Clone this repository
-git clone https://gitlab.mi.hdm-stuttgart.de/jo041/speech-interaction.git
+https://github.com/JonasOehler/speech-interaction.git
 cd <your-project-folder>
 
 # Clone Whisper repository
